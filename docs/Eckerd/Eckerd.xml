@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object class="org.opensourcephysics.tools.LibraryCollection">
+    <property name="name" type="string">Eckerd College Tracker Collection</property>
+    <property name="html_path" type="string">Eckerd_info.html</property>
+    <property name="base_path" type="string">https://physlets.org/tracker/Eckerd/</property>
+    <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+        <property name="[0]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">Introductory Physics</property>
+            <property name="base_path" type="string">https://physlets.org/tracker/Eckerd/intro/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Angry_Birds_projectile</property>
+                    <property name="target" type="string">Angry_Birds_projectile.trz</property>
+                    <property name="type" type="string">Tracker</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryCollection">
+                    <property name="name" type="string">Angry Birds resources</property>
+                    <property name="base_path" type="string">https://physlets.org/tracker/Eckerd/intro/Angry_Birds_projectile/</property>
+                    <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                        <property name="[0]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Angry Birds Video Clip</property>
+                            <property name="target" type="string">Angry_Birds.mp4</property>
+                            <property name="thumbnail" type="string">Angry_Birds_thumbnail.png</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[1]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Angry Birds documentation</property>
+                            <property name="html_path" type="string">../Angry_Birds_projectile.html</property>
+                            <property name="target" type="string">Angry_Birds_Projectile_Motion.pdf</property>
+                            <property name="type" type="string">PDF</property>
+                        </object>
+                        </property>
+                        <property name="[2]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Angry Birds DOCX documentation</property>
+                            <property name="html_path" type="string">../Angry_Birds_projectile.html</property>
+                            <property name="target" type="string">Angry_Birds_Projectile_Motion.docx</property>
+                        </object>
+                        </property>
+                        <property name="[3]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Spring Constant Exercise</property>
+                            <property name="html_path" type="string">Angry_Birds_slingshot.html</property>
+                            <property name="target" type="string">Angry_Birds_slingshot.pdf</property>
+                            <property name="type" type="string">PDF</property>
+                        </object>
+                        </property>
+                    </property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Dolphin Jump</property>
+                    <property name="target" type="string">dolphin_jump.trz</property>
+                    <property name="thumbnail" type="string">dolphin_jump_thumbnail.png</property>
+                    <property name="type" type="string">Tracker</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryCollection">
+                    <property name="name" type="string">Dolphin Jump resources</property>
+                    <property name="base_path" type="string">https://physlets.org/tracker/Eckerd/intro/dolphin_jump/</property>
+                    <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                        <property name="[0]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Dolphin Jump video</property>
+                            <property name="target" type="string">dolphin_jump.mp4</property>
+                            <property name="thumbnail" type="string">dolphin_jump_thumbnail.png</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[1]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Dolphin Jump documentation</property>
+                            <property name="html_path" type="string">../dolphin_jump.html</property>
+                            <property name="target" type="string">Dolphin_Jump_Projectile_Motion.pdf</property>
+                            <property name="type" type="string">PDF</property>
+                        </object>
+                        </property>
+                    </property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Car Train Chase</property>
+                    <property name="target" type="string">car_train_chase.trz</property>
+                    <property name="type" type="string">Tracker</property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryCollection">
+                    <property name="name" type="string">Car Train Chase resources</property>
+                    <property name="base_path" type="string">https://physlets.org/tracker/Eckerd/intro/car_train_chase/</property>
+                    <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                        <property name="[0]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Car train race clip</property>
+                            <property name="target" type="string">chase_clip.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[1]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Antique cars train chase</property>
+                            <property name="target" type="string">antique_cars_train_chase.mp4</property>
+                            <property name="thumbnail" type="string">antique_cars_train_chase_thumbnail.png</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[2]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Car Train Chase documentation</property>
+                            <property name="html_path" type="string">../cars_train_chase.html</property>
+                            <property name="target" type="string">cars_train_chase.pdf</property>
+                            <property name="type" type="string">PDF</property>
+                        </object>
+                        </property>
+                    </property>
+                </object>
+                </property>
+                <property name="[6]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">pocket_bike_looping</property>
+                    <property name="target" type="string">pocket_bike_looping.trz</property>
+                    <property name="type" type="string">Tracker</property>
+                </object>
+                </property>
+                <property name="[7]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryCollection">
+                    <property name="name" type="string">Pocket Bike Looping resources</property>
+                    <property name="base_path" type="string">https://physlets.org/tracker/Eckerd/intro/pocket_bike_looping/</property>
+                    <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                        <property name="[0]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Pocket Bike Looping documentation</property>
+                            <property name="html_path" type="string">../pocket_bike_looping.html</property>
+                            <property name="target" type="string">pocket_bike_looping.pdf</property>
+                            <property name="type" type="string">PDF</property>
+                        </object>
+                        </property>
+                        <property name="[1]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Picket Bike Looping clip</property>
+                            <property name="target" type="string">pocket_bike_looping.mp4</property>
+                            <property name="thumbnail" type="string">pocket_bike_looping_thumbnail.png</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                    </property>
+                </object>
+                </property>
+                <property name="[8]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Projectile_from_truck</property>
+                    <property name="target" type="string">Projectile_from_truck.trz</property>
+                    <property name="type" type="string">Tracker</property>
+                </object>
+                </property>
+                <property name="[9]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryCollection">
+                    <property name="name" type="string">Projectile from Moving Truck resources</property>
+                    <property name="base_path" type="string">https://physlets.org/tracker/Eckerd/intro/Projectile_from_Moving_Truck/</property>
+                    <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                        <property name="[0]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Projectile from Moving Truck clip</property>
+                            <property name="target" type="string">Moving_Truck.mp4</property>
+                            <property name="thumbnail" type="string">Moving_Truck_thumbnail.png</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[1]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Projectile from Moving Truck documentation</property>
+                            <property name="html_path" type="string">../Projectile_from_Moving_Truck.html</property>
+                            <property name="target" type="string">Projectile_from_Moving_Truck.pdf</property>
+                            <property name="type" type="string">PDF</property>
+                        </object>
+                        </property>
+                    </property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[1]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">Classical Mechanics</property>
+            <property name="base_path" type="string">https://physlets.org/tracker/Eckerd/classical/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">badminton_projectile</property>
+                    <property name="html_path" type="string">badminton_projectile.trz!/html/badminton_projectile_info.html</property>
+                    <property name="target" type="string">badminton_projectile.trz</property>
+                    <property name="thumbnail" type="string">badminton_projectile_thumbnail.png</property>
+                    <property name="type" type="string">Tracker</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Badminton Projectile documentation</property>
+                    <property name="html_path" type="string">badminton_projectile.html</property>
+                    <property name="target" type="string">badminton_projectile.pdf</property>
+                    <property name="type" type="string">PDF</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Coriolis Force</property>
+                    <property name="target" type="string">Coriolis Force.trz</property>
+                    <property name="type" type="string">Tracker</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Coriolis Force documentation</property>
+                    <property name="html_path" type="string">Coriolis Force.html</property>
+                    <property name="target" type="string">Coriolis Force.pdf</property>
+                    <property name="type" type="string">PDF</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+    </property>
+</object>

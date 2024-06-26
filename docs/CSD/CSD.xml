@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object class="org.opensourcephysics.tools.LibraryCollection">
+    <property name="name" type="string">CSD Tracker DL</property>
+    <property name="html_path" type="string">CSD.html</property>
+    <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+        <property name="[0]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">Tracker Lesson Plan</property>
+            <property name="html_path" type="string">lesson plans/LessonPlans.html</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Rolling Ball Lesson</property>
+                    <property name="html_path" type="string">lesson plans/LessonPlans.html</property>
+                    <property name="target" type="string">lesson plans/Ball Acceleration Key.pdf</property>
+                    <property name="type" type="string">PDF</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[1]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">7th Grade Videos</property>
+            <property name="html_path" type="string">videos/SeventhGradeVideos.html</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Rolling Ball Right to Left</property>
+                    <property name="html_path" type="string">videos/RollingBallRightLeft.html</property>
+                    <property name="target" type="string">videos/RollingBallRightLeft.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Rolling Ball Left to Right</property>
+                    <property name="html_path" type="string">videos/RollingBallLeftRight.html</property>
+                    <property name="target" type="string">videos/RollingBallLeftRight.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Rolling Ball Left to Right II</property>
+                    <property name="target" type="string">videos/RollingBallLeftRight2.mp4</property>
+                    <property name="thumbnail" type="string">/Users/wochristian/Library/Caches/OSP/osp-local_machine/Users/wochristian/Tracker/CSD/videos/RollingBallLeftRight2_thumbnail.png</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Ball on Incline</property>
+                    <property name="html_path" type="string">videos/LargeBallOnIncline.html</property>
+                    <property name="target" type="string">videos/LargeBallOnIncline.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Free Fall</property>
+                    <property name="html_path" type="string">videos/FreeFall.html</property>
+                    <property name="target" type="string">videos/FreeFall.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Water Rocket Trajectory</property>
+                    <property name="html_path" type="string">videos/WaterRocketTrajectory.html</property>
+                    <property name="target" type="string">videos/WaterRocketTrajectory.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[2]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">7th Grade Rocket Experiment</property>
+            <property name="html_path" type="string">experiments/Experiments.html</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">WaterRocketTrajectory</property>
+                    <property name="html_path" type="string">WaterRocketTrajectory.trz!/html/WaterRocketTrajectory_info.html</property>
+                    <property name="target" type="string">experiments/WaterRocketTrajectory.trz</property>
+                    <property name="thumbnail" type="string">experiments/WaterRocketTrajectory_thumbnail.png</property>
+                    <property name="type" type="string">Tracker</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+    </property>
+</object>
