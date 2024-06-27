@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object class="org.opensourcephysics.tools.LibraryCollection">
+    <property name="name" type="string">EJS 1D Kinematics</property>
+    <property name="html_path" type="string">EJS_Physlets.html</property>
+    <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+        <property name="[0]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">Illustrations</property>
+            <property name="html_path" type="string">ch2_illustrations.html</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Illustration 2.1</property>
+                    <property name="html_path" type="string">Illustration2_1.html</property>
+                    <property name="target" type="string">js_ejs_model_Illustration2_1.zip</property>
+                    <property name="type" type="string">EJS</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Illustration 2.2</property>
+                    <property name="html_path" type="string">Illustration2_2.html</property>
+                    <property name="target" type="string">js_ejs_model_Illustration2_2.zip</property>
+                    <property name="type" type="string">EJS</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Illustration 2.3</property>
+                    <property name="html_path" type="string">Illustration2_3.html</property>
+                    <property name="target" type="string">js_ejs_model_Illustration2_3.zip</property>
+                    <property name="type" type="string">EJS</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Illustration 2.4</property>
+                    <property name="html_path" type="string">Illustration2_4.html</property>
+                    <property name="target" type="string">js_ejs_model_Illustration2_4.zip</property>
+                    <property name="type" type="string">EJS</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Illustration 2.5</property>
+                    <property name="html_path" type="string">Illustration2_5.html</property>
+                    <property name="target" type="string">js_ejs_model_Illustration2_5.zip</property>
+                    <property name="type" type="string">EJS</property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Illustration 2.6</property>
+                    <property name="html_path" type="string">Illustration2_6.html</property>
+                    <property name="target" type="string">js_ejs_model_Illustration2_6.zip</property>
+                    <property name="type" type="string">EJS</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[1]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">Problems</property>
+            <property name="html_path" type="string">ch2_problems.html</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Problem 1</property>
+                    <property name="html_path" type="string">Problem2_1.html</property>
+                    <property name="target" type="string">js_ejs_model_Problem2_01.zip</property>
+                    <property name="type" type="string">EJS</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Problem 2</property>
+                    <property name="html_path" type="string">Problem2_2.html</property>
+                    <property name="target" type="string">js_ejs_model_Problem2_02.zip</property>
+                    <property name="type" type="string">EJS</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Problem 3</property>
+                    <property name="html_path" type="string">Problem2_03.html</property>
+                    <property name="target" type="string">js_ejs_model_Problem2_03.zip</property>
+                    <property name="type" type="string">EJS</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Problem 4</property>
+                    <property name="html_path" type="string">Problem2_4.html</property>
+                    <property name="target" type="string">js_ejs_model_Problem2_04.zip</property>
+                    <property name="type" type="string">EJS</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Problem 5</property>
+                    <property name="html_path" type="string">Problem2_5.html</property>
+                    <property name="target" type="string">js_ejs_model_Problem2_05.zip</property>
+                    <property name="type" type="string">EJS</property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Problem 6</property>
+                    <property name="html_path" type="string">Problem2_6.html</property>
+                    <property name="target" type="string">js_ejs_model_Problem2_06.zip</property>
+                    <property name="type" type="string">EJS</property>
+                </object>
+                </property>
+                <property name="[6]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Problem 7</property>
+                    <property name="html_path" type="string">Problem2_7.html</property>
+                    <property name="target" type="string">js_ejs_model_Problem2_07.zip</property>
+                    <property name="type" type="string">EJS</property>
+                </object>
+                </property>
+                <property name="[7]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Problem 8</property>
+                    <property name="html_path" type="string">Problem2_8.html</property>
+                    <property name="target" type="string">js_ejs_model_Problem2_08.zip</property>
+                    <property name="type" type="string">EJS</property>
+                </object>
+                </property>
+                <property name="[8]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Problem 9</property>
+                    <property name="html_path" type="string">Problem2_9.html</property>
+                    <property name="target" type="string">js_ejs_model_Problem2_09.zip</property>
+                    <property name="type" type="string">EJS</property>
+                </object>
+                </property>
+                <property name="[9]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Problem 10</property>
+                    <property name="html_path" type="string">Problem2_10.html</property>
+                    <property name="target" type="string">js_ejs_model_Problem2_10.zip</property>
+                    <property name="type" type="string">EJS</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+    </property>
+</object>

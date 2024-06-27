@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object class="org.opensourcephysics.tools.LibraryCollection">
+    <property name="name" type="string">EJS model name bug</property>
+    <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+        <property name="[0]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">URL Type</property>
+            <property name="target" type="string"><![CDATA[https://www.um.es/fem/wikis/runwebejs/index.html?url=https://physlets.org/pp/EJS/Ch02/js_ejs_model_Illustration2_1.zip&name=test]]></property>
+            <property name="type" type="string">URL</property>
+        </object>
+        </property>
+        <property name="[1]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">EJS Model Type</property>
+            <property name="target" type="string">https://physlets.org/pp/EJS/Ch02/js_ejs_model_Illustration2_1.zip</property>
+            <property name="type" type="string">EJS</property>
+        </object>
+        </property>
+        <property name="[2]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">EJS Model Type with name</property>
+            <property name="target" type="string"><![CDATA[https://physlets.org/pp/EJS/Ch02/js_ejs_model_Illustration2_1.zip&name=test]]></property>
+            <property name="type" type="string">EJS</property>
+        </object>
+        </property>
+    </property>
+</object>
