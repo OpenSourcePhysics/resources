@@ -23,7 +23,7 @@
                 <property name="[2]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">Video MP4</property>
-                    <property name="target" type="string"><![CDATA[BallOnRamp.mp4&name=test]]></property>
+                    <property name="target" type="string">BallOnRamp.mp4</property>
                     <property name="type" type="string">Video</property>
                 </object>
                 </property>
