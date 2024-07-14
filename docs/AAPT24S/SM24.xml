@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <object class="org.opensourcephysics.tools.LibraryCollection">
-    <property name="name" type="string">SM24 DL</property>
+    <property name="name" type="string">SM24 Collection</property>
     <property name="html_path" type="string">SM24_info.html</property>
     <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
         <property name="[0]" type="object">
@@ -37,8 +37,8 @@
         </property>
         <property name="[4]" type="object">
         <object class="org.opensourcephysics.tools.LibraryCollection">
-            <property name="name" type="string">SM24 Collection</property>
-            <property name="target" type="string">https://opensourcephysics.github.io/resources/S2024_AAPT/index.html</property>
+            <property name="name" type="string">Linking Examples</property>
+            <property name="target" type="string">https://opensourcephysics.github.io/resources/CollectionTest/CollectionTest.xml</property>
         </object>
         </property>
     </property>
