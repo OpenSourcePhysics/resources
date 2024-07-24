@@ -1,27 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <object class="org.opensourcephysics.tools.LibraryCollection">
-    <property name="name" type="string">CINCY DL</property>
+    <property name="name" type="string">CINCY Collection</property>
     <property name="html_path" type="string">CINCY_info.html</property>
     <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
         <property name="[0]" type="object">
         <object class="org.opensourcephysics.tools.LibraryResource">
-            <property name="name" type="string">Force and Motion Instructions</property>
+            <property name="name" type="string">Force and Motion Insructions and Pre-Lab</property>
             <property name="html_path" type="string">CINCY_info.html</property>
-            <property name="target" type="string">Lab_04_05_Tracker_Instructions.pdf</property>
+            <property name="target" type="string">Lab_04_Pre_Lab_Tracker_Instructions.pdf</property>
             <property name="type" type="string">PDF</property>
         </object>
         </property>
         <property name="[1]" type="object">
         <object class="org.opensourcephysics.tools.LibraryResource">
-            <property name="name" type="string">Simple Harmonic Motion Instructions</property>
-            <property name="html_path" type="string">CINCY_info.html</property>
-            <property name="target" type="string">Lab_06_07_Tracker_Instrunctions.pdf</property>
-            <property name="type" type="string">PDF</property>
+            <property name="name" type="string">Force and Motion Pre-Lab Video</property>
+            <property name="target" type="string">Lab_04_Pre_Lab_Sample.mp4</property>
+            <property name="type" type="string">Video</property>
         </object>
         </property>
         <property name="[2]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Force and Motion Rubric</property>
+            <property name="target" type="string">Lab_05_Rubric.pdf</property>
+            <property name="type" type="string">PDF</property>
+        </object>
+        </property>
+        <property name="[3]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Force and Motion Report Requirements</property>
+            <property name="target" type="string">Lab_05_Report_Requirements.pdf</property>
+            <property name="type" type="string">PDF</property>
+        </object>
+        </property>
+        <property name="[4]" type="object">
         <object class="org.opensourcephysics.tools.LibraryCollection">
-            <property name="name" type="string">Force and Motion</property>
+            <property name="name" type="string">Force and Motion Videos</property>
             <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
                 <property name="[0]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
@@ -440,9 +453,17 @@
             </property>
         </object>
         </property>
-        <property name="[3]" type="object">
+        <property name="[5]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Simple Harmonic Motion Instructions</property>
+            <property name="html_path" type="string">CINCY_info.html</property>
+            <property name="target" type="string">Lab_06_07_Tracker_Instrunctions.pdf</property>
+            <property name="type" type="string">PDF</property>
+        </object>
+        </property>
+        <property name="[6]" type="object">
         <object class="org.opensourcephysics.tools.LibraryCollection">
-            <property name="name" type="string">Simple Harmonic Motion</property>
+            <property name="name" type="string">Simple Harmonic Motion Videos</property>
             <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
                 <property name="[0]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
@@ -665,7 +686,49 @@
             </property>
         </object>
         </property>
-        <property name="[4]" type="object">
+        <property name="[7]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Rotational Motion Instructions</property>
+            <property name="target" type="string">Lab_08_09_Rotation.pdf</property>
+            <property name="type" type="string">PDF</property>
+        </object>
+        </property>
+        <property name="[8]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Rotational Motion Pre-Lab</property>
+            <property name="target" type="string">Lab_08_Pre_Lab.pdf</property>
+            <property name="type" type="string">PDF</property>
+        </object>
+        </property>
+        <property name="[9]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Rotational Motion Rubrick</property>
+            <property name="target" type="string">Lab_08_09_Rubric.pdf</property>
+            <property name="type" type="string">PDF</property>
+        </object>
+        </property>
+        <property name="[10]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">Rotational Motion Videos</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Rotational Motion I</property>
+                    <property name="target" type="string">Lab_08_Rotation.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Rotational Motion II</property>
+                    <property name="target" type="string">Lab_08_Roation_string_breaks.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[11]" type="object">
         <object class="org.opensourcephysics.tools.LibraryCollection">
             <property name="name" type="string">Instructor Notes (password required)</property>
             <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <object class="org.opensourcephysics.tools.LibraryCollection">
-    <property name="name" type="string">SM24 DL</property>
+    <property name="name" type="string">SM24 Collection</property>
     <property name="html_path" type="string">SM24_info.html</property>
     <property name="metadata" type="array" class="[[Ljava.lang.String;">
         <property name="[0]" type="array" class="[Ljava.lang.String;">
@@ -58,6 +58,7 @@
         </object>
         </property>
         <property name="[4]" type="object">
+<<<<<<< HEAD:docs/S2024_AAPT/SM24.xml
         <object class="org.opensourcephysics.tools.LibraryResource">
             <property name="name" type="string">Collections</property>
             <property name="html_path" type="string">https://opensourcephysics.github.io/resources/</property>
@@ -69,6 +70,11 @@
                     <property name="[1]" type="string">Wolfgang Christian</property>
                 </property>
             </property>
+=======
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">Linking Examples</property>
+            <property name="target" type="string">https://opensourcephysics.github.io/resources/CollectionTest/CollectionTest.xml</property>
+>>>>>>> d53f994090c394239dd7298af0eee1cb014d6abb:docs/AAPT24S/SM24.xml
         </object>
         </property>
     </property>
