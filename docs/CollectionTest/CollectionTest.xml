@@ -23,8 +23,14 @@
                 <property name="[2]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">Video MP4</property>
-                    <property name="target" type="string"><![CDATA[BallOnRamp.mp4&name=test]]></property>
+                    <property name="target" type="string">BallOnRamp.mp4</property>
                     <property name="type" type="string">Video</property>
+                    <property name="metadata" type="array" class="[[Ljava.lang.String;">
+                        <property name="[0]" type="array" class="[Ljava.lang.String;">
+                            <property name="[0]" type="string">Author</property>
+                            <property name="[1]" type="string">Barbara Christian</property>
+                        </property>
+                    </property>
                 </object>
                 </property>
                 <property name="[3]" type="object">

@@ -2,6 +2,16 @@
 <object class="org.opensourcephysics.tools.LibraryCollection">
     <property name="name" type="string">SM24 DL</property>
     <property name="html_path" type="string">SM24_info.html</property>
+    <property name="metadata" type="array" class="[[Ljava.lang.String;">
+        <property name="[0]" type="array" class="[Ljava.lang.String;">
+            <property name="[0]" type="string">Author</property>
+            <property name="[1]" type="string">W. Christian</property>
+        </property>
+        <property name="[1]" type="array" class="[Ljava.lang.String;">
+            <property name="[0]" type="string">Contact</property>
+            <property name="[1]" type="string">wochrstian@davidson.edu</property>
+        </property>
+    </property>
     <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
         <property name="[0]" type="object">
         <object class="org.opensourcephysics.tools.LibraryResource">
@@ -9,6 +19,12 @@
             <property name="html_path" type="string">Linking_info.html</property>
             <property name="target" type="string">https://www.compadre.org/OSP/items/Detail.cfm?ID=13369</property>
             <property name="type" type="string">URL</property>
+            <property name="metadata" type="array" class="[[Ljava.lang.String;">
+                <property name="[0]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Author</property>
+                    <property name="[1]" type="string">Wolfgang Christian</property>
+                </property>
+            </property>
         </object>
         </property>
         <property name="[1]" type="object">
@@ -17,6 +33,12 @@
             <property name="html_path" type="string">Thinking_info.html</property>
             <property name="target" type="string">https://www.compadre.org/OSP/items/detail.cfm?ID=16646</property>
             <property name="type" type="string">URL</property>
+            <property name="metadata" type="array" class="[[Ljava.lang.String;">
+                <property name="[0]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Author</property>
+                    <property name="[1]" type="string">Wolfgang Christian</property>
+                </property>
+            </property>
         </object>
         </property>
         <property name="[2]" type="object">
@@ -36,9 +58,17 @@
         </object>
         </property>
         <property name="[4]" type="object">
-        <object class="org.opensourcephysics.tools.LibraryCollection">
-            <property name="name" type="string">SM24 Collection</property>
-            <property name="target" type="string">https://opensourcephysics.github.io/resources/S2024_AAPT/index.html</property>
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Collections</property>
+            <property name="html_path" type="string">https://opensourcephysics.github.io/resources/</property>
+            <property name="target" type="string">https://opensourcephysics.github.io/resources/</property>
+            <property name="type" type="string">URL</property>
+            <property name="metadata" type="array" class="[[Ljava.lang.String;">
+                <property name="[0]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Author</property>
+                    <property name="[1]" type="string">Wolfgang Christian</property>
+                </property>
+            </property>
         </object>
         </property>
     </property>

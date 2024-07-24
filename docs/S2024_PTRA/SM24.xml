@@ -5,6 +5,7 @@
         <property name="[0]" type="object">
         <object class="org.opensourcephysics.tools.LibraryResource">
             <property name="name" type="string">Kinematics with Video Analyis</property>
+            <property name="html_path" type="string">CSDKinematics_info.html</property>
             <property name="target" type="string">https://www.compadre.org/osp/items/detail.cfm?ID=16786</property>
             <property name="type" type="string">URL</property>
         </object>
