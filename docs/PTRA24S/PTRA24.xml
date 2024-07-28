@@ -64,7 +64,7 @@
                 <property name="[0]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">Handbrake</property>
-                    <property name="html_path" type="string">https://handbrake.fr/</property>
+                    <property name="html_path" type="string">HandBrake_info.html</property>
                     <property name="target" type="string">https://handbrake.fr/</property>
                     <property name="type" type="string">URL</property>
                     <property name="metadata" type="array" class="[[Ljava.lang.String;">
@@ -82,7 +82,7 @@
                 <property name="[1]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">Cloud Converter</property>
-                    <property name="html_path" type="string">https://cloudconvert.com/mp4-converter</property>
+                    <property name="html_path" type="string">CloudConvert_info.html</property>
                     <property name="target" type="string">https://cloudconvert.com/mp4-converter</property>
                     <property name="type" type="string">URL</property>
                 </object>
@@ -90,7 +90,7 @@
                 <property name="[2]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">Online Converter</property>
-                    <property name="html_path" type="string">https://video.online-convert.com/convert-to-mpg</property>
+                    <property name="html_path" type="string">OnlineConvert_info.html</property>
                     <property name="target" type="string">https://video.online-convert.com/convert-to-mpg</property>
                     <property name="type" type="string">URL</property>
                     <property name="metadata" type="array" class="[[Ljava.lang.String;">
@@ -139,7 +139,7 @@
                 <property name="[3]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">Media Info</property>
-                    <property name="html_path" type="string">https://mediaarea.net/en/MediaInfo</property>
+                    <property name="html_path" type="string">MediaInfo.html</property>
                     <property name="target" type="string">https://mediaarea.net/en/MediaInfo</property>
                     <property name="type" type="string">URL</property>
                     <property name="metadata" type="array" class="[[Ljava.lang.String;">
