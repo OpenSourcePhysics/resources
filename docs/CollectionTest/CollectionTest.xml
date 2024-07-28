@@ -181,7 +181,7 @@
                     <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
                         <property name="[0]" type="object">
                         <object class="org.opensourcephysics.tools.LibraryResource">
-                            <property name="name" type="string">Compadre ZIP</property>
+                            <property name="name" type="string">Colliding Pucks ZIP</property>
                             <property name="base_path" type="string"><![CDATA[https://www.compadre.org/osp/services/REST/osp_tracker.cfm?OSPType=Tracker&OSPPrimary=Subject]]></property>
                             <property name="target" type="string"><![CDATA[https://www.compadre.org/osp/document/ServeFile.cfm?ID=10579&DocID=2072&TrackerSet=1]]></property>
                             <property name="type" type="string">Tracker</property>
