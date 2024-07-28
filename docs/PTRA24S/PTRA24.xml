@@ -5,7 +5,7 @@
         <property name="[0]" type="object">
         <object class="org.opensourcephysics.tools.LibraryResource">
             <property name="name" type="string">Kinematics with Video Analyis</property>
-            <property name="html_path" type="string">CSDKinematics_info.html</property>
+            <property name="html_path" type="string">PTRAKinematics_info.html</property>
             <property name="target" type="string">https://www.compadre.org/osp/items/detail.cfm?ID=16786</property>
             <property name="type" type="string">URL</property>
         </object>
@@ -15,13 +15,17 @@
             <property name="name" type="string">Library Collections</property>
             <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
                 <property name="[0]" type="object">
-                <object class="org.opensourcephysics.tools.LibraryResource">
-                    <property name="name" type="string">HPU</property>
+                <object class="org.opensourcephysics.tools.LibraryCollection">
+                    <property name="name" type="string">Tracker Manual</property>
+                    <property name="html_path" type="string">HPU_info.html</property>
+                    <property name="target" type="string">https://opensourcephysics.github.io/resources/HPU/HPU.xml</property>
                 </object>
                 </property>
                 <property name="[1]" type="object">
-                <object class="org.opensourcephysics.tools.LibraryResource">
-                    <property name="name" type="string">Cincy</property>
+                <object class="org.opensourcephysics.tools.LibraryCollection">
+                    <property name="name" type="string">CINCY Physics Labs</property>
+                    <property name="html_path" type="string">CINCY_info.html</property>
+                    <property name="target" type="string">https://opensourcephysics.github.io/resources/CINCY/CINCY.xml</property>
                 </object>
                 </property>
             </property>
@@ -30,6 +34,7 @@
         <property name="[2]" type="object">
         <object class="org.opensourcephysics.tools.LibraryResource">
             <property name="name" type="string">You Tube Tutorials</property>
+            <property name="html_path" type="string">Tutorials_info.html</property>
             <property name="target" type="string"><![CDATA[https://www.compadre.org/OSP/filingcabinet/share.cfm?UID=4856&FID=23747&code=873A9F5BC1]]></property>
             <property name="type" type="string">URL</property>
         </object>
@@ -37,8 +42,19 @@
         <property name="[3]" type="object">
         <object class="org.opensourcephysics.tools.LibraryResource">
             <property name="name" type="string">Installing Desktop Tracker</property>
+            <property name="html_path" type="string">https://physlets.org/tracker/index.html</property>
             <property name="target" type="string">https://physlets.org/tracker/</property>
             <property name="type" type="string">URL</property>
+            <property name="metadata" type="array" class="[[Ljava.lang.String;">
+                <property name="[0]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Keywords</property>
+                    <property name="[1]" type="string">free video analysis modeling spectrum profile tracking physics java open source education</property>
+                </property>
+                <property name="[1]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">description</property>
+                    <property name="[1]" type="string">A free video analysis and modeling tool from Open Source Physics</property>
+                </property>
+            </property>
         </object>
         </property>
         <property name="[4]" type="object">
@@ -48,29 +64,105 @@
                 <property name="[0]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">Handbrake</property>
+                    <property name="html_path" type="string">https://handbrake.fr/</property>
+                    <property name="target" type="string">https://handbrake.fr/</property>
+                    <property name="type" type="string">URL</property>
+                    <property name="metadata" type="array" class="[[Ljava.lang.String;">
+                        <property name="[0]" type="array" class="[Ljava.lang.String;">
+                            <property name="[0]" type="string">Author</property>
+                            <property name="[1]" type="string">https://ethercycle.com/</property>
+                        </property>
+                        <property name="[1]" type="array" class="[Ljava.lang.String;">
+                            <property name="[0]" type="string">description</property>
+                            <property name="[1]" type="string">HandBrake is an open-source, GPL-licensed, multiplatform, multithreaded video transcoder.</property>
+                        </property>
+                    </property>
                 </object>
                 </property>
                 <property name="[1]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">Cloud Converter</property>
+                    <property name="html_path" type="string">https://cloudconvert.com/mp4-converter</property>
+                    <property name="target" type="string">https://cloudconvert.com/mp4-converter</property>
+                    <property name="type" type="string">URL</property>
                 </object>
                 </property>
                 <property name="[2]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">Online Converter</property>
+                    <property name="html_path" type="string">https://video.online-convert.com/convert-to-mpg</property>
+                    <property name="target" type="string">https://video.online-convert.com/convert-to-mpg</property>
+                    <property name="type" type="string">URL</property>
+                    <property name="metadata" type="array" class="[[Ljava.lang.String;">
+                        <property name="[0]" type="array" class="[Ljava.lang.String;">
+                            <property name="[0]" type="string">Keywords</property>
+                            <property name="[1]" type="string"><![CDATA[mp4 to mpg, mpg converter, convert to mpg"/>
+                <link rel="canonical" href="https://video.online-convert.com/convert-to-mpg"/>
+    
+                                                                                                                        <link rel="alternate" hreflang="x-default" href="https://video.online-convert.com/convert-to-mpg]]></property>
+                        </property>
+                        <property name="[1]" type="array" class="[Ljava.lang.String;">
+                            <property name="[0]" type="string">msapplication-TileColor</property>
+                            <property name="[1]" type="string">#00796B</property>
+                        </property>
+                        <property name="[2]" type="array" class="[Ljava.lang.String;">
+                            <property name="[0]" type="string">msapplication-config</property>
+                            <property name="[1]" type="string">https://www.online-convert.com/assets/favicon/browserconfig.xml</property>
+                        </property>
+                        <property name="[3]" type="array" class="[Ljava.lang.String;">
+                            <property name="[0]" type="string">twitter:card</property>
+                            <property name="[1]" type="string">summary_large_image</property>
+                        </property>
+                        <property name="[4]" type="array" class="[Ljava.lang.String;">
+                            <property name="[0]" type="string">twitter:creator</property>
+                            <property name="[1]" type="string">@onlineconvert</property>
+                        </property>
+                        <property name="[5]" type="array" class="[Ljava.lang.String;">
+                            <property name="[0]" type="string">twitter:description</property>
+                            <property name="[1]" type="string">Convert your video files to the MPG standard with this free and online video converter. It offers many options like cutting and selecting the encoding format.</property>
+                        </property>
+                        <property name="[6]" type="array" class="[Ljava.lang.String;">
+                            <property name="[0]" type="string">twitter:image:src</property>
+                            <property name="[1]" type="string">https://www.online-convert.com/assets/favicon/favicon-196x196.png</property>
+                        </property>
+                        <property name="[7]" type="array" class="[Ljava.lang.String;">
+                            <property name="[0]" type="string">twitter:site</property>
+                            <property name="[1]" type="string">@onlineconvert</property>
+                        </property>
+                        <property name="[8]" type="array" class="[Ljava.lang.String;">
+                            <property name="[0]" type="string">twitter:title</property>
+                            <property name="[1]" type="string">Online MPG video file converter</property>
+                        </property>
+                    </property>
                 </object>
                 </property>
                 <property name="[3]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">Media Info</property>
+                    <property name="html_path" type="string">https://mediaarea.net/en/MediaInfo</property>
+                    <property name="target" type="string">https://mediaarea.net/en/MediaInfo</property>
+                    <property name="type" type="string">URL</property>
+                    <property name="metadata" type="array" class="[[Ljava.lang.String;">
+                        <property name="[0]" type="array" class="[Ljava.lang.String;">
+                            <property name="[0]" type="string"><![CDATA[description" lang="en]]></property>
+                            <property name="[1]" type="string">MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files</property>
+                        </property>
+                        <property name="[1]" type="array" class="[Ljava.lang.String;">
+                            <property name="[0]" type="string"><![CDATA[keywords" lang="en]]></property>
+                            <property name="[1]" type="string">MediaInfo Media Info DLL information tag codec video audio subtitle chapters AVI MKV OGM free</property>
+                        </property>
+                        <property name="[2]" type="array" class="[Ljava.lang.String;">
+                            <property name="[0]" type="string">msapplication-TileColor</property>
+                            <property name="[1]" type="string">white</property>
+                        </property>
+                        <property name="[3]" type="array" class="[Ljava.lang.String;">
+                            <property name="[0]" type="string">msapplication-TileImage</property>
+                            <property name="[1]" type="string">/images/2bab224-6f2b677.png</property>
+                        </property>
+                    </property>
                 </object>
                 </property>
             </property>
-        </object>
-        </property>
-        <property name="[5]" type="object">
-        <object class="org.opensourcephysics.tools.LibraryCollection">
-            <property name="name" type="string">Record and Analyze Your Own Video</property>
         </object>
         </property>
     </property>
