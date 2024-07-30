@@ -307,10 +307,10 @@ video credit: Ashley Press and Aaron Titus]]></property>
         </property>
         <property name="[10]" type="object">
         <object class="org.opensourcephysics.tools.LibraryResource">
-            <property name="name" type="string">You Tube Tutorial</property>
-            <property name="html_path" type="string">https://www.youtube.com/watch?v=La3H7JywgX0</property>
+            <property name="name" type="string">Tracker You Tube Tutorial</property>
+            <property name="html_path" type="string">YouTubeTutorial_info.html</property>
             <property name="target" type="string">https://www.youtube.com/watch?v=La3H7JywgX0</property>
-            <property name="type" type="string">HTML</property>
+            <property name="type" type="string">URL</property>
         </object>
         </property>
     </property>
