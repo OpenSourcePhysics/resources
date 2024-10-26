@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<title>XML Collections</title>        
+		<style type="text/css">
+		p {
+			font-family: Arial, Helvetica, sans-serif;
+			font-size: 10px;
+		}
+		li {
+			font-family: Arial, Helvetica, sans-serif;
+			font-size: 10px;
+		}
+		h3 {
+			font-family: Arial, Helvetica, sans-serif;
+			font-size: 10px;
+		}
+		h1 {
+			font-family: Arial, Helvetica, sans-serif;
+			font-size: 14px;
+			color: #99F;
+			text-align: center
+		}
+        </style>    
+	</head>
+
+<body>
+<h1>XML Collections</h1>
+        
+		<p>An XML collection is built using the <a href="../../help/library_browser.html">Library Browser</a>.   This takes more work but gives you more flexibility and control of your collection. For example, you may include resources located anywhere, including other servers.</p>
+		<p>Here are the steps to building a local XML collection. For a more complete tutorial see the <strong>XML Collection Tutorial</strong> collection below or <a href="../../help/library_browser.html">Help: Library Browser</a>.</p>
+		  <ol type="a">
+		    <li>Oganize your local Tracker projects and other resources within a single directory (with subdirectories if desired). </li>
+		    <li>Use the Library Browser to create, edit and save an XML collection file on a local drive. The base URL of the XML collection should be the <strong>absolute</strong> path to the directory containing your resources. By contrast, all paths to local html files and resources should be <strong>relative</strong> to the base URL, not absolute. It's easy to convert absolute to relative paths when building the collection in the Library Browser.</li>
+</ol>
+		  <p>Once you have your local XML collection it is easy to convert it to a web-based XML collection:</p>
+		  <ol type="a">
+		    <li>Upload your entire directory (with resources and subdirectories but not the XML collection file) to a web server.</li>
+		    <li>Change the base URL of your XML collection to the URL path of the directory on the server so that all relative paths point to web files.</li>
+		    <li>Upload the XML collection file to the server. Open the collection by opening the URL path to the XML file in the Library Browser.</li>
+</ol>
+<p>Note that your XML collection file need not reside on the server--you can also email it to others or share it on a local network. However, putting it on the web means you only have send others the URL to the web XML file.</p>
+		  <p><strong>Note</strong>: If you have a web-based XML collection you are proud of, please email <a href="mailto:dobrown@cabrillo.edu">Douglas Brown</a> who will (if approved) add it to the Library Browser's <strong>Collections|Shared Library</strong> menu. It will then be accessible to all Tracker users, not just your students.</p>
+</body>
+
+</html>
