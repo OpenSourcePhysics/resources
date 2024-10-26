@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object class="org.opensourcephysics.tools.Library">
+    <property name="name" type="string">Test Library</property>
+    <property name="collection_paths" type="array" class="[Ljava.lang.String;">
+        <property name="[0]" type="string">http://physlets.org/tracker/library/cabrillo_collection.xml</property>
+        <property name="[1]" type="string">http://physlets.org/tracker/library/how_to_share.xml</property>
+    </property>
+    <property name="collection_names" type="array" class="[Ljava.lang.String;">
+        <property name="[0]" type="string">Tracker Sampler</property>
+        <property name="[1]" type="string">How To Share</property>
+    </property>
+</object>

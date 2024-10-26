@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object class="org.opensourcephysics.tools.LibraryCollection">
+    <property name="name" type="string"><![CDATA[Rolling & Slipping]]></property>
+    <property name="html_path" type="string">library_collection_info.html</property>
+    <property name="base_path" type="string">https://physlets.org/tracker/library/roll_slip</property>
+    <property name="metadata" type="array" class="[[Ljava.lang.String;">
+        <property name="[0]" type="array" class="[Ljava.lang.String;">
+            <property name="[0]" type="string">Author</property>
+            <property name="[1]" type="string">Stan Dodds, Douglas Brown</property>
+        </property>
+        <property name="[1]" type="array" class="[Ljava.lang.String;">
+            <property name="[0]" type="string">Keywords</property>
+            <property name="[1]" type="string">AAPT, hoop</property>
+        </property>
+    </property>
+    <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+        <property name="[0]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Roll and Slip Experiment.pdf</property>
+            <property name="html_path" type="string">pdf_info.html</property>
+            <property name="target" type="string">Roll and Slip Experiment.pdf</property>
+            <property name="type" type="string">PDF</property>
+            <property name="metadata" type="array" class="[[Ljava.lang.String;">
+                <property name="[0]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Author</property>
+                    <property name="[1]" type="string">Stan Dodds, Douglas Brown</property>
+                </property>
+                <property name="[1]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Keywords</property>
+                    <property name="[1]" type="string">AAPT, hoop</property>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[1]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Roll and Slip 10.3</property>
+            <property name="html_path" type="string">RollSlip10.3.trz!/html/RollSlip10.3_info.html</property>
+            <property name="target" type="string">RollSlip10.3.trz</property>
+            <property name="type" type="string">Tracker</property>
+            <property name="metadata" type="array" class="[[Ljava.lang.String;">
+                <property name="[0]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Author</property>
+                    <property name="[1]" type="string">Stan Dodds</property>
+                </property>
+                <property name="[1]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Contact</property>
+                    <property name="[1]" type="string">Rice University</property>
+                </property>
+                <property name="[2]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Keywords</property>
+                    <property name="[1]" type="string">motion, acceleration, rotation, roll, slip, incline, ramp, model</property>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[2]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Roll and Slip 17.6</property>
+            <property name="html_path" type="string">RollSlip17.6.trz!/html/RollSlip17.6_info.html</property>
+            <property name="target" type="string">RollSlip17.6.trz</property>
+            <property name="type" type="string">Tracker</property>
+            <property name="metadata" type="array" class="[[Ljava.lang.String;">
+                <property name="[0]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Author</property>
+                    <property name="[1]" type="string">Stan Dodds</property>
+                </property>
+                <property name="[1]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Contact</property>
+                    <property name="[1]" type="string">Rice University</property>
+                </property>
+                <property name="[2]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Keywords</property>
+                    <property name="[1]" type="string">motion, acceleration, rotation, roll, slip, incline, ramp, model</property>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[3]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Roll and Slip 28.3</property>
+            <property name="html_path" type="string">RollSlip28.3.trz!/html/RollSlip28.3_info.html</property>
+            <property name="target" type="string">RollSlip28.3.trz</property>
+            <property name="type" type="string">Tracker</property>
+            <property name="metadata" type="array" class="[[Ljava.lang.String;">
+                <property name="[0]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Author</property>
+                    <property name="[1]" type="string">Stan Dodds</property>
+                </property>
+                <property name="[1]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Contact</property>
+                    <property name="[1]" type="string">Rice University</property>
+                </property>
+                <property name="[2]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Keywords</property>
+                    <property name="[1]" type="string">motion, acceleration, rotation, roll, slip, incline, ramp, model</property>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[4]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Roll and Slip 35.5</property>
+            <property name="html_path" type="string">RollSlip35.5.trz!/html/RollSlip35.5_info.html</property>
+            <property name="target" type="string">RollSlip35.5.trz</property>
+            <property name="type" type="string">Tracker</property>
+            <property name="metadata" type="array" class="[[Ljava.lang.String;">
+                <property name="[0]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Author</property>
+                    <property name="[1]" type="string">Stan Dodds</property>
+                </property>
+                <property name="[1]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Contact</property>
+                    <property name="[1]" type="string">Rice University</property>
+                </property>
+                <property name="[2]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Keywords</property>
+                    <property name="[1]" type="string">motion, acceleration, rotation, roll, slip, incline, ramp, model</property>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[5]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Roll and Slip 42.4</property>
+            <property name="html_path" type="string">RollSlip42.4.trz!/html/RollSlip42.4_info.html</property>
+            <property name="target" type="string">RollSlip42.4.trz</property>
+            <property name="type" type="string">Tracker</property>
+            <property name="metadata" type="array" class="[[Ljava.lang.String;">
+                <property name="[0]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Author</property>
+                    <property name="[1]" type="string">Stan Dodds</property>
+                </property>
+                <property name="[1]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Contact</property>
+                    <property name="[1]" type="string">Rice University</property>
+                </property>
+                <property name="[2]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Keywords</property>
+                    <property name="[1]" type="string">motion, acceleration, rotation, roll, slip, incline, ramp, model</property>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[6]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Roll and Slip 52.5</property>
+            <property name="html_path" type="string">RollSlip52.5.trz!/html/RollSlip52.5_info.html</property>
+            <property name="target" type="string">RollSlip52.5.trz</property>
+            <property name="type" type="string">Tracker</property>
+            <property name="metadata" type="array" class="[[Ljava.lang.String;">
+                <property name="[0]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Author</property>
+                    <property name="[1]" type="string">Stan Dodds</property>
+                </property>
+                <property name="[1]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Contact</property>
+                    <property name="[1]" type="string">Rice University</property>
+                </property>
+                <property name="[2]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Keywords</property>
+                    <property name="[1]" type="string">motion, acceleration, rotation, roll, slip, incline, ramp, model</property>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[7]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Roll and Slip 58.3</property>
+            <property name="html_path" type="string">RollSlip58.3.trz!/html/RollSlip58.3_info.html</property>
+            <property name="target" type="string">RollSlip58.3.trz</property>
+            <property name="type" type="string">Tracker</property>
+            <property name="metadata" type="array" class="[[Ljava.lang.String;">
+                <property name="[0]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Author</property>
+                    <property name="[1]" type="string">Stan Dodds</property>
+                </property>
+                <property name="[1]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Contact</property>
+                    <property name="[1]" type="string">Rice University</property>
+                </property>
+                <property name="[2]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Keywords</property>
+                    <property name="[1]" type="string">motion, acceleration, rotation, roll, slip, incline, ramp, model</property>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[8]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Roll and Slip 65.1</property>
+            <property name="html_path" type="string">RollSlip65.1.trz!/html/RollSlip65.1_info.html</property>
+            <property name="target" type="string">RollSlip65.1.trz</property>
+            <property name="type" type="string">Tracker</property>
+            <property name="metadata" type="array" class="[[Ljava.lang.String;">
+                <property name="[0]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Author</property>
+                    <property name="[1]" type="string">Stan Dodds</property>
+                </property>
+                <property name="[1]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Contact</property>
+                    <property name="[1]" type="string">Rice University</property>
+                </property>
+                <property name="[2]" type="array" class="[Ljava.lang.String;">
+                    <property name="[0]" type="string">Keywords</property>
+                    <property name="[1]" type="string">motion, acceleration, rotation, roll, slip, incline, ramp, model</property>
+                </property>
+            </property>
+        </object>
+        </property>
+    </property>
+</object>

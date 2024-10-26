@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object class="org.opensourcephysics.tools.Library">
+    <property name="name" type="string">Tracker Home Library</property>
+    <property name="collection_paths" type="array" class="[Ljava.lang.String;">
+        <property name="[0]" type="string">https://physlets.org/tracker/library/innovative_tpt/innovative_collection.xml</property>
+        <property name="[1]" type="string">https://physlets.org/tracker/library/cabrillo_collection.xml</property>
+        <property name="[2]" type="string">https://physlets.org/tracker/library/how_to_share.xml</property>
+        <property name="[3]" type="string">https://physlets.org/tracker/library/workshop_examples/workshop_collection.php</property>
+        <property name="[4]" type="string">https://opensourcephysics.github.io/tracker/CollectionTest/CollectionTest.xml</property>
+    </property>
+    <property name="collection_names" type="array" class="[Ljava.lang.String;">
+        <property name="[0]" type="string">Innovative Uses of Video Analysis</property>
+        <property name="[1]" type="string">Tracker Sampler</property>
+        <property name="[2]" type="string">Sharing Tracker Projects</property>
+        <property name="[3]" type="string">Tracker Workshop</property>
+        <property name="[4]" type="string">Test</property>
+    </property>
+</object>
