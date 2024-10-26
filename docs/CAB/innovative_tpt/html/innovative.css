@@ -1,0 +1,27 @@
+body {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12pt;
+  color: #202020;
+  background-color: #FFFFFF;
+}
+h1 {
+  font-size: 24pt;
+  text-align: center;
+}
+h2 {
+  font-size: 16pt;
+}
+h3 {
+  font-size: 14pt;
+}
+p, li, h4, h5 {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12pt;
+  color: #202020;
+  background-color: #FFFFFF;
+}
+h6 {
+  font-size: 22pt;
+  color: #405050;
+  text-align: center;
+}
