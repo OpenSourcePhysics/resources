@@ -207,28 +207,28 @@
                                 <property name="[0]" type="object">
                                 <object class="org.opensourcephysics.tools.LibraryResource">
                                     <property name="name" type="string">Soft white: color</property>
-                                    <property name="target" type="string">60Wsoft_thermal_color.mp4</property>
+                                    <property name="target" type="string">60Wsoft_thermal_color.mov</property>
                                     <property name="type" type="string">Video</property>
                                 </object>
                                 </property>
                                 <property name="[1]" type="object">
                                 <object class="org.opensourcephysics.tools.LibraryResource">
                                     <property name="name" type="string">Soft white: grayscale</property>
-                                    <property name="target" type="string">60Wsoft_thermal_gray.mp4</property>
+                                    <property name="target" type="string">60Wsoft_thermal_gray.mov</property>
                                     <property name="type" type="string">Video</property>
                                 </object>
                                 </property>
                                 <property name="[2]" type="object">
                                 <object class="org.opensourcephysics.tools.LibraryResource">
                                     <property name="name" type="string">Soft white: cool</property>
-                                    <property name="target" type="string">60Wsoft_60V_gray.mp4</property>
+                                    <property name="target" type="string">60Wsoft_60V_gray.mov</property>
                                     <property name="type" type="string">Video</property>
                                 </object>
                                 </property>
                                 <property name="[3]" type="object">
                                 <object class="org.opensourcephysics.tools.LibraryResource">
                                     <property name="name" type="string">Sunlight</property>
-                                    <property name="target" type="string">sun_gray.mp4</property>
+                                    <property name="target" type="string">sun_gray.mov</property>
                                     <property name="type" type="string">Video</property>
                                 </object>
                                 </property>
@@ -268,14 +268,14 @@
                                 <property name="[0]" type="object">
                                 <object class="org.opensourcephysics.tools.LibraryResource">
                                     <property name="name" type="string">Lee 128</property>
-                                    <property name="target" type="string">60Wsoft_filter_pink128_gray.mp4</property>
+                                    <property name="target" type="string">60Wsoft_filter_pink128_gray.mov</property>
                                     <property name="type" type="string">Video</property>
                                 </object>
                                 </property>
                                 <property name="[1]" type="object">
                                 <object class="org.opensourcephysics.tools.LibraryResource">
                                     <property name="name" type="string">Lee 139</property>
-                                    <property name="target" type="string">60Wsoft_filter_green139_gray.mp4</property>
+                                    <property name="target" type="string">60Wsoft_filter_green139_gray.mov</property>
                                     <property name="type" type="string">Video</property>
                                 </object>
                                 </property>
@@ -331,28 +331,28 @@
                                 <property name="[0]" type="object">
                                 <object class="org.opensourcephysics.tools.LibraryResource">
                                     <property name="name" type="string">Green laser</property>
-                                    <property name="target" type="string">fluor_green_532_color_60.mp4</property>
+                                    <property name="target" type="string">fluor_green_532_color_60.mov</property>
                                     <property name="type" type="string">Video</property>
                                 </object>
                                 </property>
                                 <property name="[1]" type="object">
                                 <object class="org.opensourcephysics.tools.LibraryResource">
                                     <property name="name" type="string">Hydrogen</property>
-                                    <property name="target" type="string">gas_H.mp4</property>
+                                    <property name="target" type="string">gas_H.mov</property>
                                     <property name="type" type="string">Video</property>
                                 </object>
                                 </property>
                                 <property name="[2]" type="object">
                                 <object class="org.opensourcephysics.tools.LibraryResource">
                                     <property name="name" type="string">Mercury</property>
-                                    <property name="target" type="string">gas_Hg.mp4</property>
+                                    <property name="target" type="string">gas_Hg.mov</property>
                                     <property name="type" type="string">Video</property>
                                 </object>
                                 </property>
                                 <property name="[3]" type="object">
                                 <object class="org.opensourcephysics.tools.LibraryResource">
                                     <property name="name" type="string">Helium</property>
-                                    <property name="target" type="string">gas_He.mp4</property>
+                                    <property name="target" type="string">gas_He.mov</property>
                                     <property name="type" type="string">Video</property>
                                 </object>
                                 </property>
