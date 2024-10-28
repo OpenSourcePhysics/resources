@@ -1,173 +1,303 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <object class="org.opensourcephysics.tools.LibraryCollection">
-    <property name="name" type="string">Tracker Workshop</property>
-    <property name="html_path" type="string">workshop_collection_info.html</property>
-    <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/workshop/</property>
-    <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+  <property name="name" type="string">Tracker Workshop</property>
+  <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/workshop/</property>
+  <property name="html_path" type="string">workshop_collection_info.html</property>
+  <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+    <property name="[0]" type="object">
+    <object class="org.opensourcephysics.tools.LibraryCollection">
+      <property name="name" type="string">1. Resources</property>
+      <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/workshop/Resources/</property>
+      <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
         <property name="[0]" type="object">
-        <object class="org.opensourcephysics.tools.LibraryCollection">
-            <property name="name" type="string">Resources</property>
-            <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/workshop/Resources/</property>
-            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
-                <property name="[0]" type="object">
-                <object class="org.opensourcephysics.tools.LibraryResource">
-                    <property name="name" type="string">tracker_resources.pdf</property>
-                    <property name="target" type="string">tracker_resources.pdf</property>
-                    <property name="type" type="string">PDF</property>
-                </object>
-                </property>
-            </property>
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">tracker_resources.pdf</property>
+          <property name="type" type="string">PDF</property>
+          <property name="target" type="string">tracker_resources.pdf</property>
+        </object>
+        </property>
+      </property>
+    </object>
+    </property>
+    <property name="[1]" type="object">
+    <object class="org.opensourcephysics.tools.LibraryCollection">
+      <property name="name" type="string">2. Introduction to Tracker</property>
+      <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/workshop/Introduction to Tracker/</property>
+      <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+        <property name="[0]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">pageview.html</property>
+          <property name="html_path" type="string">pageview.html</property>
+          <property name="type" type="string">HTML</property>
+          <property name="target" type="string">pageview.html</property>
         </object>
         </property>
         <property name="[1]" type="object">
-        <object class="org.opensourcephysics.tools.LibraryCollection">
-            <property name="name" type="string">Introduction to Tracker</property>
-            <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/workshop/Introduction to Tracker/</property>
-            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
-                <property name="[0]" type="object">
-                <object class="org.opensourcephysics.tools.LibraryResource">
-                    <property name="name" type="string">tracker_intro.pdf</property>
-                    <property name="target" type="string">tracker_intro.pdf</property>
-                    <property name="type" type="string">PDF</property>
-                </object>
-                </property>
-            </property>
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">tracker_intro.pdf</property>
+          <property name="type" type="string">PDF</property>
+          <property name="target" type="string">tracker_intro.pdf</property>
         </object>
         </property>
         <property name="[2]" type="object">
-        <object class="org.opensourcephysics.tools.LibraryCollection">
-            <property name="name" type="string">Preparing videos for analysis</property>
-            <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/workshop/Preparing videos for analysis/</property>
-            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
-                <property name="[0]" type="object">
-                <object class="org.opensourcephysics.tools.LibraryResource">
-                    <property name="name" type="string">tracker_videos.pdf</property>
-                    <property name="target" type="string">tracker_videos.pdf</property>
-                    <property name="type" type="string">PDF</property>
-                </object>
-                </property>
-            </property>
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">Galileo'sProjectile.mov</property>
+          <property name="type" type="string">Video</property>
+          <property name="target" type="string">Galileo'sProjectile.mov</property>
         </object>
         </property>
         <property name="[3]" type="object">
-        <object class="org.opensourcephysics.tools.LibraryCollection">
-            <property name="name" type="string">Data analysis in Tracker</property>
-            <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/workshop/Data analysis in Tracker/</property>
-            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
-                <property name="[0]" type="object">
-                <object class="org.opensourcephysics.tools.LibraryResource">
-                    <property name="name" type="string">tracker_analysis.pdf</property>
-                    <property name="target" type="string">tracker_analysis.pdf</property>
-                    <property name="type" type="string">PDF</property>
-                </object>
-                </property>
-            </property>
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">Galileo'sProjectile.mp4</property>
+          <property name="type" type="string">Video</property>
+          <property name="target" type="string">Galileo'sProjectile.mp4</property>
+        </object>
+        </property>
+      </property>
+    </object>
+    </property>
+    <property name="[2]" type="object">
+    <object class="org.opensourcephysics.tools.LibraryCollection">
+      <property name="name" type="string">3. Preparing videos for analysis</property>
+      <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/workshop/Preparing videos for analysis/</property>
+      <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+        <property name="[0]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">tracker_videos.pdf</property>
+          <property name="type" type="string">PDF</property>
+          <property name="target" type="string">tracker_videos.pdf</property>
+        </object>
+        </property>
+        <property name="[1]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">BallToss.mov</property>
+          <property name="type" type="string">Video</property>
+          <property name="target" type="string">BallToss.mov</property>
+        </object>
+        </property>
+        <property name="[2]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">BallToss.mp4</property>
+          <property name="type" type="string">Video</property>
+          <property name="target" type="string">BallToss.mp4</property>
+        </object>
+        </property>
+        <property name="[3]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">ROLL583.mov</property>
+          <property name="type" type="string">Video</property>
+          <property name="target" type="string">ROLL583.mov</property>
         </object>
         </property>
         <property name="[4]" type="object">
-        <object class="org.opensourcephysics.tools.LibraryCollection">
-            <property name="name" type="string">Particle models</property>
-            <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/workshop/Particle models/</property>
-            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
-                <property name="[0]" type="object">
-                <object class="org.opensourcephysics.tools.LibraryResource">
-                    <property name="name" type="string">tracker_models.pdf</property>
-                    <property name="target" type="string">tracker_models.pdf</property>
-                    <property name="type" type="string">PDF</property>
-                </object>
-                </property>
-            </property>
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">ROLL583.mp4</property>
+          <property name="type" type="string">Video</property>
+          <property name="target" type="string">ROLL583.mp4</property>
         </object>
         </property>
         <property name="[5]" type="object">
-        <object class="org.opensourcephysics.tools.LibraryCollection">
-            <property name="name" type="string">Calibration options</property>
-            <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/workshop/Calibration options/</property>
-            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
-                <property name="[0]" type="object">
-                <object class="org.opensourcephysics.tools.LibraryResource">
-                    <property name="name" type="string">tracker_calibration.pdf</property>
-                    <property name="target" type="string">tracker_calibration.pdf</property>
-                    <property name="type" type="string">PDF</property>
-                </object>
-                </property>
-            </property>
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">ballOnString.mp4</property>
+          <property name="type" type="string">Video</property>
+          <property name="target" type="string">ballOnString.mp4</property>
         </object>
         </property>
         <property name="[6]" type="object">
-        <object class="org.opensourcephysics.tools.LibraryCollection">
-            <property name="name" type="string">Multiple objects, coordinate system</property>
-            <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/workshop/Multiple objects, coordinate system/</property>
-            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
-                <property name="[0]" type="object">
-                <object class="org.opensourcephysics.tools.LibraryResource">
-                    <property name="name" type="string">tracker_extended.pdf</property>
-                    <property name="target" type="string">tracker_extended.pdf</property>
-                    <property name="type" type="string">PDF</property>
-                </object>
-                </property>
-            </property>
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">ballOnString.wmv</property>
+          <property name="type" type="string">Video</property>
+          <property name="target" type="string">ballOnString.wmv</property>
         </object>
         </property>
-        <property name="[7]" type="object">
-        <object class="org.opensourcephysics.tools.LibraryCollection">
-            <property name="name" type="string">Spectroscopy</property>
-            <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/workshop/Spectroscopy/</property>
-            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
-                <property name="[0]" type="object">
-                <object class="org.opensourcephysics.tools.LibraryResource">
-                    <property name="name" type="string">tracker_spectra.pdf</property>
-                    <property name="target" type="string">tracker_spectra.pdf</property>
-                    <property name="type" type="string">PDF</property>
-                </object>
-                </property>
-            </property>
-        </object>
-        </property>
-        <property name="[8]" type="object">
-        <object class="org.opensourcephysics.tools.LibraryCollection">
-            <property name="name" type="string">Shortcuts</property>
-            <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/workshop/Shortcuts/</property>
-            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
-                <property name="[0]" type="object">
-                <object class="org.opensourcephysics.tools.LibraryResource">
-                    <property name="name" type="string">tracker_shortcuts.pdf</property>
-                    <property name="target" type="string">tracker_shortcuts.pdf</property>
-                    <property name="type" type="string">PDF</property>
-                </object>
-                </property>
-            </property>
-        </object>
-        </property>
-        <property name="[9]" type="object">
-        <object class="org.opensourcephysics.tools.LibraryCollection">
-            <property name="name" type="string">EjsS-Tracker connection</property>
-            <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/workshop/EjsS-Tracker connection/</property>
-            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
-                <property name="[0]" type="object">
-                <object class="org.opensourcephysics.tools.LibraryResource">
-                    <property name="name" type="string">tracker_EJS_connection.pdf</property>
-                    <property name="target" type="string">tracker_EJS_connection.pdf</property>
-                    <property name="type" type="string">PDF</property>
-                </object>
-                </property>
-            </property>
-        </object>
-        </property>
-        <property name="[10]" type="object">
-        <object class="org.opensourcephysics.tools.LibraryCollection">
-            <property name="name" type="string">videos</property>
-            <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/workshop/videos/</property>
-            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
-                <property name="[0]" type="object">
-                <object class="org.opensourcephysics.tools.LibraryResource">
-                    <property name="name" type="string">bio.20149480-s3.mov</property>
-                    <property name="target" type="string">bio.20149480-s3.mov</property>
-                    <property name="type" type="string">Video</property>
-                </object>
-                </property>
-            </property>
-        </object>
-        </property>
+      </property>
+    </object>
     </property>
+    <property name="[3]" type="object">
+    <object class="org.opensourcephysics.tools.LibraryCollection">
+      <property name="name" type="string">4. Data analysis in Tracker</property>
+      <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/workshop/Data analysis in Tracker/</property>
+      <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+        <property name="[0]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">tracker_analysis.pdf</property>
+          <property name="type" type="string">PDF</property>
+          <property name="target" type="string">tracker_analysis.pdf</property>
+        </object>
+        </property>
+        <property name="[1]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">BallToss.mov</property>
+          <property name="type" type="string">Video</property>
+          <property name="target" type="string">BallToss.mov</property>
+        </object>
+        </property>
+        <property name="[2]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">BallToss.mp4</property>
+          <property name="type" type="string">Video</property>
+          <property name="target" type="string">BallToss.mp4</property>
+        </object>
+        </property>
+        <property name="[3]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">Rotating fan.mp4</property>
+          <property name="type" type="string">Video</property>
+          <property name="target" type="string">Rotating fan.mp4</property>
+        </object>
+        </property>
+      </property>
+    </object>
+    </property>
+    <property name="[4]" type="object">
+    <object class="org.opensourcephysics.tools.LibraryCollection">
+      <property name="name" type="string">5. Particle models</property>
+      <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/workshop/Particle models/</property>
+      <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+        <property name="[0]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">projectile_models.trk</property>
+          <property name="type" type="string">Tracker</property>
+          <property name="target" type="string">projectile_models.trk</property>
+        </object>
+        </property>
+        <property name="[1]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">tracker_models.pdf</property>
+          <property name="type" type="string">PDF</property>
+          <property name="target" type="string">tracker_models.pdf</property>
+        </object>
+        </property>
+        <property name="[2]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">BallToss.mov</property>
+          <property name="type" type="string">Video</property>
+          <property name="target" type="string">BallToss.mov</property>
+        </object>
+        </property>
+        <property name="[3]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">BallToss.mp4</property>
+          <property name="type" type="string">Video</property>
+          <property name="target" type="string">BallToss.mp4</property>
+        </object>
+        </property>
+      </property>
+    </object>
+    </property>
+    <property name="[5]" type="object">
+    <object class="org.opensourcephysics.tools.LibraryCollection">
+      <property name="name" type="string">6. Calibration options</property>
+      <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/workshop/Calibration options/</property>
+      <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+        <property name="[0]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">tracker_calibration.pdf</property>
+          <property name="type" type="string">PDF</property>
+          <property name="target" type="string">tracker_calibration.pdf</property>
+        </object>
+        </property>
+        <property name="[1]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">fluor_lamp_3000K.zip</property>
+          <property name="html_path" type="string">fluor_lamp_3000K.html</property>
+          <property name="type" type="string">Tracker</property>
+          <property name="target" type="string">fluor_lamp_3000K.zip</property>
+        </object>
+        </property>
+        <property name="[2]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">Rotating fan.mp4</property>
+          <property name="type" type="string">Video</property>
+          <property name="target" type="string">Rotating fan.mp4</property>
+        </object>
+        </property>
+      </property>
+    </object>
+    </property>
+    <property name="[6]" type="object">
+    <object class="org.opensourcephysics.tools.LibraryCollection">
+      <property name="name" type="string">7. Multiple objects, coordinate system</property>
+      <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/workshop/Multiple objects, coordinate system/</property>
+      <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+        <property name="[0]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">tracker_extended.pdf</property>
+          <property name="type" type="string">PDF</property>
+          <property name="target" type="string">tracker_extended.pdf</property>
+        </object>
+        </property>
+        <property name="[1]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">PucksCollide.zip</property>
+          <property name="html_path" type="string">PucksCollide.html</property>
+          <property name="type" type="string">Tracker</property>
+          <property name="target" type="string">PucksCollide.zip</property>
+        </object>
+        </property>
+        <property name="[2]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">PucksCollide.mp4</property>
+          <property name="html_path" type="string">PucksCollide.html</property>
+          <property name="type" type="string">Video</property>
+          <property name="target" type="string">PucksCollide.mp4</property>
+        </object>
+        </property>
+      </property>
+    </object>
+    </property>
+    <property name="[7]" type="object">
+    <object class="org.opensourcephysics.tools.LibraryCollection">
+      <property name="name" type="string">8. Spectroscopy</property>
+      <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/workshop/Spectroscopy/</property>
+      <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+        <property name="[0]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">tracker_spectra.pdf</property>
+          <property name="type" type="string">PDF</property>
+          <property name="target" type="string">tracker_spectra.pdf</property>
+        </object>
+        </property>
+        <property name="[1]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">color_filter_128.zip</property>
+          <property name="html_path" type="string">color_filter_128.html</property>
+          <property name="type" type="string">Tracker</property>
+          <property name="target" type="string">color_filter_128.zip</property>
+        </object>
+        </property>
+      </property>
+    </object>
+    </property>
+    <property name="[8]" type="object">
+    <object class="org.opensourcephysics.tools.LibraryCollection">
+      <property name="name" type="string">9. Shortcuts</property>
+      <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/workshop/Shortcuts/</property>
+      <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+        <property name="[0]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">tracker_shortcuts.pdf</property>
+          <property name="type" type="string">PDF</property>
+          <property name="target" type="string">tracker_shortcuts.pdf</property>
+        </object>
+        </property>
+      </property>
+    </object>
+    </property>
+    <property name="[9]" type="object">
+    <object class="org.opensourcephysics.tools.LibraryCollection">
+      <property name="name" type="string">10. EjsS-Tracker connection</property>
+      <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/workshop/EjsS-Tracker connection/</property>
+      <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+        <property name="[0]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+          <property name="name" type="string">tracker_EJS_connection.pdf</property>
+          <property name="type" type="string">PDF</property>
+          <property name="target" type="string">tracker_EJS_connection.pdf</property>
+        </object>
+        </property>
+      </property>
+    </object>
+    </property>
+  </property>
 </object>
