@@ -2,7 +2,7 @@
 <object class="org.opensourcephysics.tools.LibraryCollection">
     <property name="name" type="string">Sharing Tracker Projects</property>
     <property name="html_path" type="string">documents/how_to_share_intro.html</property>
-    <property name="base_path" type="string">https://physlets.org/tracker/library/</property>
+    <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/</property>
     <property name="metadata" type="array" class="[[Ljava.lang.String;">
         <property name="[0]" type="array" class="[Ljava.lang.String;">
             <property name="[0]" type="string">Author</property>
