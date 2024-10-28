@@ -2,14 +2,14 @@
 <object class="org.opensourcephysics.tools.LibraryCollection">
     <property name="name" type="string">Tracker Sampler</property>
     <property name="html_path" type="string">cabrillo_collection.html</property>
-    <property name="base_path" type="string">https://physlets.org/tracker/library/</property>
+    <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/</property>
     <property name="type" type="string">HTML</property>
     <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
         <property name="[0]" type="object">
         <object class="org.opensourcephysics.tools.LibraryCollection">
             <property name="name" type="string">Mechanics</property>
             <property name="html_path" type="string">mechanics.html</property>
-            <property name="base_path" type="string">https://physlets.org/tracker/library/experiments/</property>
+            <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/experiments/</property>
             <property name="type" type="string">Collection</property>
             <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
                 <property name="[0]" type="object">
@@ -45,7 +45,7 @@
                         <property name="[3]" type="object">
                         <object class="org.opensourcephysics.tools.LibraryResource">
                             <property name="name" type="string">Video</property>
-                            <property name="base_path" type="string">https://physlets.org/tracker/library/videos/</property>
+                            <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/videos/</property>
                             <property name="target" type="string">BallTossOut.mp4</property>
                             <property name="type" type="string">Video</property>
                         </object>
@@ -95,7 +95,7 @@
                         <object class="org.opensourcephysics.tools.LibraryResource">
                             <property name="name" type="string">Video</property>
                             <property name="html_path" type="string">CupsClips.html</property>
-                            <property name="base_path" type="string">https://physlets.org/tracker/library/videos</property>
+                            <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/videos</property>
                             <property name="target" type="string">CupsClips.mp4</property>
                             <property name="type" type="string">Video</property>
                         </object>
@@ -119,7 +119,7 @@
                         <property name="[1]" type="object">
                         <object class="org.opensourcephysics.tools.LibraryResource">
                             <property name="name" type="string">Video</property>
-                            <property name="base_path" type="string">https://physlets.org/tracker/library/videos</property>
+                            <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/videos</property>
                             <property name="target" type="string">Pendulum.mp4</property>
                             <property name="type" type="string">Video</property>
                         </object>
@@ -143,7 +143,7 @@
                         <property name="[1]" type="object">
                         <object class="org.opensourcephysics.tools.LibraryResource">
                             <property name="name" type="string">Video</property>
-                            <property name="base_path" type="string">https://physlets.org/tracker/library/videos</property>
+                            <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/videos</property>
                             <property name="target" type="string">PucksCollide.mp4</property>
                             <property name="type" type="string">Video</property>
                         </object>
@@ -158,7 +158,7 @@
         <object class="org.opensourcephysics.tools.LibraryCollection">
             <property name="name" type="string">Spectroscopy</property>
             <property name="html_path" type="string">spectroscopy.html</property>
-            <property name="base_path" type="string">https://physlets.org/tracker/library/experiments/</property>
+            <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/experiments/</property>
             <property name="type" type="string">Collection</property>
             <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
                 <property name="[0]" type="object">
@@ -201,7 +201,7 @@
                         <property name="[4]" type="object">
                         <object class="org.opensourcephysics.tools.LibraryCollection">
                             <property name="name" type="string">Videos</property>
-                            <property name="base_path" type="string">https://physlets.org/tracker/library/videos</property>
+                            <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/videos</property>
                             <property name="type" type="string">Collection</property>
                             <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
                                 <property name="[0]" type="object">
@@ -262,7 +262,7 @@
                         <property name="[2]" type="object">
                         <object class="org.opensourcephysics.tools.LibraryCollection">
                             <property name="name" type="string">Videos</property>
-                            <property name="base_path" type="string">https://physlets.org/tracker/library/videos</property>
+                            <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/videos</property>
                             <property name="type" type="string">Collection</property>
                             <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
                                 <property name="[0]" type="object">
@@ -325,7 +325,7 @@
                         <property name="[4]" type="object">
                         <object class="org.opensourcephysics.tools.LibraryCollection">
                             <property name="name" type="string">Videos</property>
-                            <property name="base_path" type="string">https://physlets.org/tracker/library/videos</property>
+                            <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/videos</property>
                             <property name="type" type="string">Collection</property>
                             <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
                                 <property name="[0]" type="object">
@@ -391,7 +391,7 @@
                                 <property name="[2]" type="object">
                                 <object class="org.opensourcephysics.tools.LibraryCollection">
                                     <property name="name" type="string">Videos</property>
-                                    <property name="base_path" type="string">https://physlets.org/tracker/library/videos</property>
+                                    <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/videos</property>
                                     <property name="type" type="string">Collection</property>
                                     <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
                                         <property name="[0]" type="object">
@@ -438,7 +438,7 @@
                                 <property name="[2]" type="object">
                                 <object class="org.opensourcephysics.tools.LibraryCollection">
                                     <property name="name" type="string">Videos</property>
-                                    <property name="base_path" type="string">https://physlets.org/tracker/library/videos</property>
+                                    <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/videos</property>
                                     <property name="type" type="string">Collection</property>
                                     <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
                                         <property name="[0]" type="object">
@@ -471,7 +471,7 @@
         <object class="org.opensourcephysics.tools.LibraryCollection">
             <property name="name" type="string">Student Modeling Projects</property>
             <property name="html_path" type="string">student_projects.html</property>
-            <property name="base_path" type="string">https://physlets.org/tracker/library/experiments/</property>
+            <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/experiments/</property>
             <property name="type" type="string">HTML</property>
             <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
                 <property name="[0]" type="object">
@@ -526,7 +526,7 @@
                 <object class="org.opensourcephysics.tools.LibraryCollection">
                     <property name="name" type="string">Videos</property>
                     <property name="html_path" type="string">student_videos.html</property>
-                    <property name="base_path" type="string">https://physlets.org/tracker/library/videos/</property>
+                    <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/videos/</property>
                     <property name="type" type="string">HTML</property>
                     <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
                         <property name="[0]" type="object">
