@@ -6,13 +6,11 @@
         <property name="[1]" type="string">https://opensourcephysics.github.io/resources/CAB/cabrillo_collection.xml</property>
         <property name="[2]" type="string">https://opensourcephysics.github.io/resources/CAB/how_to_share.xml</property>
         <property name="[3]" type="string">https://opensourcephysics.github.io/resources/CAB/workshop/workshop_collection.xml</property>
-        <property name="[4]" type="string">https://opensourcephysics.github.io/tracker/CollectionTest/CollectionTest.xml</property>
     </property>
     <property name="collection_names" type="array" class="[Ljava.lang.String;">
         <property name="[0]" type="string">Innovative Uses of Video Analysis</property>
         <property name="[1]" type="string">Tracker Sampler</property>
         <property name="[2]" type="string">Sharing Tracker Projects</property>
         <property name="[3]" type="string">Tracker Workshop</property>
-        <property name="[4]" type="string">Test</property>
     </property>
 </object>
