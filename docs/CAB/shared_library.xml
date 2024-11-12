@@ -2,13 +2,13 @@
 <object class="org.opensourcephysics.tools.Library">
     <property name="name" type="string">Shared Library</property>
     <property name="collection_paths" type="array" class="[Ljava.lang.String;">
-        <property name="[0]" type="string">https://physlets.org/tracker/CSD/CSD.xml</property>
-        <property name="[1]" type="string">https://physlets.org/tracker/Eckerd/Eckerd.xml</property>
-        <property name="[2]" type="string">https://physlets.org/tracker/HPU/HPU.xml</property>
+        <property name="[0]" type="string">https://opensourcephysics.github.io/resources/CSD/CSD.xml</property>
+        <property name="[1]" type="string">https://opensourcephysics.github.io/resources/Eckerd/Eckerd.xml</property>
+        <property name="[2]" type="string">https://opensourcephysics.github.io/resources/HPU/HPU.xml</property>
         <property name="[3]" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/LivePhoto_collection.xml</property>
         <property name="[4]" type="string">https://home.phys.ntnu.no/tracker_videos/video/php_video_ntnu.php</property>
         <property name="[5]" type="string">https://iwant2study.org/lookangejss/indexTRZdl.php</property>
-        <property name="[6]" type="string">https://physlets.org/tracker/CINCY/CINCY.xml</property>
+        <property name="[6]" type="string">https://opensourcephysics.github.io/resources/CINCY/CINCY.xml</property>
     </property>
     <property name="collection_names" type="array" class="[Ljava.lang.String;">
         <property name="[0]" type="string">Community School of Davidson</property>
