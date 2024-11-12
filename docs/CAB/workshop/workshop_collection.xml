@@ -157,6 +157,7 @@
         <property name="[0]" type="object">
         <object class="org.opensourcephysics.tools.LibraryResource">
           <property name="name" type="string">projectile_models.trk</property>
+          <property name="html_path" type="string">projectile_models.html</property>
           <property name="type" type="string">Tracker</property>
           <property name="target" type="string">projectile_models.trk</property>
         </object>
@@ -238,7 +239,6 @@
         <property name="[2]" type="object">
         <object class="org.opensourcephysics.tools.LibraryResource">
           <property name="name" type="string">PucksCollide.mp4</property>
-          <property name="html_path" type="string">PucksCollide.html</property>
           <property name="type" type="string">Video</property>
           <property name="target" type="string">PucksCollide.mp4</property>
         </object>
