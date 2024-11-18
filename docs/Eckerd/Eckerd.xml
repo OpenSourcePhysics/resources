@@ -2,12 +2,12 @@
 <object class="org.opensourcephysics.tools.LibraryCollection">
     <property name="name" type="string">Eckerd College Tracker Collection</property>
     <property name="html_path" type="string">Eckerd_info.html</property>
-    <property name="base_path" type="string">https://physlets.org/tracker/Eckerd/</property>
+    <property name="base_path" type="string">https://opensourcephysics.github.io/resources/Eckerd/</property>
     <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
         <property name="[0]" type="object">
         <object class="org.opensourcephysics.tools.LibraryCollection">
             <property name="name" type="string">Introductory Physics</property>
-            <property name="base_path" type="string">https://physlets.org/tracker/Eckerd/intro/</property>
+            <property name="base_path" type="string">https://opensourcephysics.github.io/resources/Eckerd/intro/</property>
             <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
                 <property name="[0]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
@@ -19,7 +19,7 @@
                 <property name="[1]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryCollection">
                     <property name="name" type="string">Angry Birds resources</property>
-                    <property name="base_path" type="string">https://physlets.org/tracker/Eckerd/intro/Angry_Birds_projectile/</property>
+                    <property name="base_path" type="string">https://opensourcephysics.github.io/resources/Eckerd/intro/Angry_Birds_projectile/</property>
                     <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
                         <property name="[0]" type="object">
                         <object class="org.opensourcephysics.tools.LibraryResource">
@@ -66,7 +66,7 @@
                 <property name="[3]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryCollection">
                     <property name="name" type="string">Dolphin Jump resources</property>
-                    <property name="base_path" type="string">https://physlets.org/tracker/Eckerd/intro/dolphin_jump/</property>
+                    <property name="base_path" type="string">https://opensourcephysics.github.io/resources/Eckerd/intro/dolphin_jump/</property>
                     <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
                         <property name="[0]" type="object">
                         <object class="org.opensourcephysics.tools.LibraryResource">
@@ -97,7 +97,7 @@
                 <property name="[5]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryCollection">
                     <property name="name" type="string">Car Train Chase resources</property>
-                    <property name="base_path" type="string">https://physlets.org/tracker/Eckerd/intro/car_train_chase/</property>
+                    <property name="base_path" type="string">https://opensourcephysics.github.io/resources/Eckerd/intro/car_train_chase/</property>
                     <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
                         <property name="[0]" type="object">
                         <object class="org.opensourcephysics.tools.LibraryResource">
@@ -135,7 +135,7 @@
                 <property name="[7]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryCollection">
                     <property name="name" type="string">Pocket Bike Looping resources</property>
-                    <property name="base_path" type="string">https://physlets.org/tracker/Eckerd/intro/pocket_bike_looping/</property>
+                    <property name="base_path" type="string">https://opensourcephysics.github.io/resources/Eckerd/intro/pocket_bike_looping/</property>
                     <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
                         <property name="[0]" type="object">
                         <object class="org.opensourcephysics.tools.LibraryResource">
@@ -166,7 +166,7 @@
                 <property name="[9]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryCollection">
                     <property name="name" type="string">Projectile from Moving Truck resources</property>
-                    <property name="base_path" type="string">https://physlets.org/tracker/Eckerd/intro/Projectile_from_Moving_Truck/</property>
+                    <property name="base_path" type="string">https://opensourcephysics.github.io/resources/Eckerd/intro/Projectile_from_Moving_Truck/</property>
                     <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
                         <property name="[0]" type="object">
                         <object class="org.opensourcephysics.tools.LibraryResource">
@@ -193,7 +193,7 @@
         <property name="[1]" type="object">
         <object class="org.opensourcephysics.tools.LibraryCollection">
             <property name="name" type="string">Classical Mechanics</property>
-            <property name="base_path" type="string">https://physlets.org/tracker/Eckerd/classical/</property>
+            <property name="base_path" type="string">https://opensourcephysics.github.io/resources/Eckerd/classical/</property>
             <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
                 <property name="[0]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
