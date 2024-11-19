@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object class="org.opensourcephysics.tools.LibraryCollection">
+    <property name="name" type="string">Sharing Tracker Projects</property>
+    <property name="html_path" type="string">documents/how_to_share_intro.html</property>
+    <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/</property>
+    <property name="metadata" type="array" class="[[Ljava.lang.String;">
+        <property name="[0]" type="array" class="[Ljava.lang.String;">
+            <property name="[0]" type="string">Author</property>
+            <property name="[1]" type="string">Douglas Brown</property>
+        </property>
+        <property name="[1]" type="array" class="[Ljava.lang.String;">
+            <property name="[0]" type="string">Keywords</property>
+            <property name="[1]" type="string">share, sharing, project, tutorial</property>
+        </property>
+    </property>
+    <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+        <property name="[0]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Individual Files</property>
+            <property name="html_path" type="string">documents/how_to_share_files.html</property>
+            <property name="type" type="string">HTML</property>
+        </object>
+        </property>
+        <property name="[1]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Live Collections</property>
+            <property name="html_path" type="string">documents/how_to_share_live.html</property>
+            <property name="type" type="string">HTML</property>
+        </object>
+        </property>
+        <property name="[2]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">XML Collections</property>
+            <property name="html_path" type="string">documents/how_to_share_xml.html</property>
+            <property name="type" type="string">HTML</property>
+        </object>
+        </property>
+        <property name="[3]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">ComPADRE Digital Library</property>
+            <property name="html_path" type="string">documents/how_to_share_compadre.html</property>
+            <property name="type" type="string">HTML</property>
+        </object>
+        </property>
+        <property name="[4]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">XML Collection Tutorial</property>
+            <property name="html_path" type="string">documents/how_to_share_xml_tutorial.html</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Explore this Collection</property>
+                    <property name="html_path" type="string">documents/how_to_share1.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Organize your Resources</property>
+                    <property name="html_path" type="string">documents/how_to_share2.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Build your Collection</property>
+                    <property name="html_path" type="string">documents/how_to_share3.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Share your Collection</property>
+                    <property name="html_path" type="string">documents/how_to_share4.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[5]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">Sample Resources</property>
+            <property name="html_path" type="string">documents/types.html</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Tracker Project with PDF</property>
+                    <property name="html_path" type="string">documents/type_trz_pdf.html</property>
+                    <property name="target" type="string">experiments/tab_video_pdf.trz</property>
+                    <property name="type" type="string">Tracker</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Tracker Project with HTML</property>
+                    <property name="html_path" type="string">documents/type_trz_html.html</property>
+                    <property name="target" type="string">experiments/tab_video_internal_html.trz</property>
+                    <property name="type" type="string">Tracker</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Video File</property>
+                    <property name="html_path" type="string">documents/type_video.html</property>
+                    <property name="target" type="string">videos/basketball.gif</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">PDF Document</property>
+                    <property name="html_path" type="string">documents/type_pdf.html</property>
+                    <property name="target" type="string">documents/how_to_share.pdf</property>
+                    <property name="type" type="string">PDF</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">HTML Page</property>
+                    <property name="html_path" type="string">documents/type_html.html</property>
+                    <property name="target" type="string">documents/how_to_share.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+    </property>
+</object>
