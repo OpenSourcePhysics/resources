@@ -44,7 +44,6 @@
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">Rolling Ball Left to Right II</property>
                     <property name="target" type="string">videos/RollingBallLeftRight2.mp4</property>
-                    <property name="thumbnail" type="string">/Users/wochristian/Library/Caches/OSP/osp-local_machine/Users/wochristian/Tracker/CSD/videos/RollingBallLeftRight2_thumbnail.png</property>
                     <property name="type" type="string">Video</property>
                 </object>
                 </property>
@@ -85,7 +84,6 @@
                     <property name="name" type="string">WaterRocketTrajectory</property>
                     <property name="html_path" type="string">WaterRocketTrajectory.trz!/html/WaterRocketTrajectory_info.html</property>
                     <property name="target" type="string">experiments/WaterRocketTrajectory.trz</property>
-                    <property name="thumbnail" type="string">experiments/WaterRocketTrajectory_thumbnail.png</property>
                     <property name="type" type="string">Tracker</property>
                 </object>
                 </property>
