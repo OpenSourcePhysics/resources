@@ -1,0 +1,1782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object class="org.opensourcephysics.tools.LibraryCollection">
+    <property name="name" type="string">LivePhoto Physics Project</property>
+    <property name="html_path" type="string">LivePhoto_collection_info.html</property>
+    <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/</property>
+    <property name="metadata" type="array" class="[[Ljava.lang.String;">
+        <property name="[0]" type="array" class="[Ljava.lang.String;">
+            <property name="[0]" type="string">Keywords</property>
+            <property name="[1]" type="string">LivePhoto Physics, LivePhoto, video analysis, physics pedagogy, LoggerPro, VideoPoint, VideoGraph, Physics Education Research, video capture, Bob Teese, Priscilla Laws, Activity Based Physics</property>
+        </property>
+    </property>
+    <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+        <property name="[0]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">Slinky</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/Slinky/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">springwave001d.mp4</property>
+                    <property name="target" type="string">springwave001d.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">springwave005d.mp4</property>
+                    <property name="target" type="string">springwave005d.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">springwave010d.mp4</property>
+                    <property name="target" type="string">springwave010d.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[1]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">TPVS</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/TPVS/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">G-52.mp4</property>
+                    <property name="target" type="string">G-52.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">MOS-154.mp4</property>
+                    <property name="target" type="string">MOS-154.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">OT-1.mp4</property>
+                    <property name="target" type="string">OT-1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">SS-BA-1.mp4</property>
+                    <property name="target" type="string">SS-BA-1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">SS-BA.mp4</property>
+                    <property name="target" type="string">SS-BA.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[6]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">WAVE-1.mp4</property>
+                    <property name="target" type="string">WAVE-1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[7]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">WAVE-2.mp4</property>
+                    <property name="target" type="string">WAVE-2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[2]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">balls</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/balls/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">TennisBallBounce.mp4</property>
+                    <property name="target" type="string">TennisBallBounce.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[3]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">bubble</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/bubble/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Bubble10-25.mp4</property>
+                    <property name="target" type="string">Bubble10-25.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[4]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">cap</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/cap/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">capacitance-9.mp4</property>
+                    <property name="target" type="string">capacitance-9.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[5]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">caps_sp</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/caps_sp/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Capacitors.mp4</property>
+                    <property name="target" type="string">Capacitors.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[6]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">carts_CoM</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/carts_CoM/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Colliding_Carts_31-Mme.mp4</property>
+                    <property name="target" type="string">Colliding_Carts_31-Mme.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Colliding_Carts_32-mMi.mp4</property>
+                    <property name="target" type="string">Colliding_Carts_32-mMi.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Colliding_Carts_34-Mmi.mp4</property>
+                    <property name="target" type="string">Colliding_Carts_34-Mmi.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Colliding_Carts_37-mmi.mp4</property>
+                    <property name="target" type="string">Colliding_Carts_37-mmi.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Colliding_Carts_41-mme.mp4</property>
+                    <property name="target" type="string">Colliding_Carts_41-mme.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[6]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Colliding_Carts_45-mMe.mp4</property>
+                    <property name="target" type="string">Colliding_Carts_45-mMe.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[7]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">coulomb</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/coulomb/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Coulomb.mp4</property>
+                    <property name="target" type="string">Coulomb.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Vertical-Rod_Ball.mp4</property>
+                    <property name="target" type="string">Vertical-Rod_Ball.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[8]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">doppler</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/doppler/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">doppler.mp4</property>
+                    <property name="target" type="string">doppler.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[9]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">elev</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/elev/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">E-8.mp4</property>
+                    <property name="target" type="string">E-8.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">E-El.mp4</property>
+                    <property name="target" type="string">E-El.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">E-Es.mp4</property>
+                    <property name="target" type="string">E-Es.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">E-ID.mp4</property>
+                    <property name="target" type="string">E-ID.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">E-IU.mp4</property>
+                    <property name="target" type="string">E-IU.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[6]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">E-IUS.mp4</property>
+                    <property name="target" type="string">E-IUS.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[7]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">E-IUSf.mp4</property>
+                    <property name="target" type="string">E-IUSf.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[10]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">equipot</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/equipot/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">equipot_2disks.mp4</property>
+                    <property name="target" type="string">equipot_2disks.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">equipot_bar-disk.mp4</property>
+                    <property name="target" type="string">equipot_bar-disk.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[11]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">fan</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/fan/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">ChgDirL.mp4</property>
+                    <property name="target" type="string">ChgDirL.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">RevDir.mp4</property>
+                    <property name="target" type="string">RevDir.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">SloAway.mp4</property>
+                    <property name="target" type="string">SloAway.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">SloToward.mp4</property>
+                    <property name="target" type="string">SloToward.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">SpeedAway.mp4</property>
+                    <property name="target" type="string">SpeedAway.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[6]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">SpeedTo.mp4</property>
+                    <property name="target" type="string">SpeedTo.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[12]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">fire</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/fire/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">FireAway.mp4</property>
+                    <property name="target" type="string">FireAway.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">FireChamber.mp4</property>
+                    <property name="target" type="string">FireChamber.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[13]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">firecracker</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/firecracker/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">firecracker2.mp4</property>
+                    <property name="target" type="string">firecracker2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[14]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">galv</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/galv/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">angle.mp4</property>
+                    <property name="target" type="string">angle.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">no-motion.mp4</property>
+                    <property name="target" type="string">no-motion.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">north-left-1.mp4</property>
+                    <property name="target" type="string">north-left-1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">north-left-2.mp4</property>
+                    <property name="target" type="string">north-left-2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">north-left-3.mp4</property>
+                    <property name="target" type="string">north-left-3.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[6]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">north-left-4.mp4</property>
+                    <property name="target" type="string">north-left-4.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[7]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">north-right-outside.mp4</property>
+                    <property name="target" type="string">north-right-outside.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[8]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">north-right.mp4</property>
+                    <property name="target" type="string">north-right.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[9]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">perpendicular.mp4</property>
+                    <property name="target" type="string">perpendicular.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[10]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">south-left.mp4</property>
+                    <property name="target" type="string">south-left.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[11]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">south-right-1.mp4</property>
+                    <property name="target" type="string">south-right-1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[12]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">south-right-2.mp4</property>
+                    <property name="target" type="string">south-right-2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[13]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">south-right-outside.mp4</property>
+                    <property name="target" type="string">south-right-outside.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[14]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">through-1.mp4</property>
+                    <property name="target" type="string">through-1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[15]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">through-2.mp4</property>
+                    <property name="target" type="string">through-2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[16]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">through-3.mp4</property>
+                    <property name="target" type="string">through-3.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[17]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">through-4.mp4</property>
+                    <property name="target" type="string">through-4.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[15]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">hoop_disk</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/hoop_disk/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">greatrace320.mp4</property>
+                    <property name="target" type="string">greatrace320.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[16]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">howi</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/howi/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Howitzer_level_track.mp4</property>
+                    <property name="target" type="string">Howitzer_level_track.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Howitzer_tilted_track_1.mp4</property>
+                    <property name="target" type="string">Howitzer_tilted_track_1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Howitzer_tilted_track_2.mp4</property>
+                    <property name="target" type="string">Howitzer_tilted_track_2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[17]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">hydro</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/hydro/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">WaterTank-01.mp4</property>
+                    <property name="target" type="string">WaterTank-01.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[18]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">jugg</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/jugg/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">JugglerAll.mp4</property>
+                    <property name="target" type="string">JugglerAll.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[19]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">kar</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/kar/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">BobsChop..mp4</property>
+                    <property name="target" type="string">BobsChop..mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">BobsChop.mp4</property>
+                    <property name="target" type="string">BobsChop.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">BradsChop..mp4</property>
+                    <property name="target" type="string">BradsChop..mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">BradsChop.mp4</property>
+                    <property name="target" type="string">BradsChop.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">IronKarateBall..mp4</property>
+                    <property name="target" type="string">IronKarateBall..mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[6]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">IronKarateBall.mp4</property>
+                    <property name="target" type="string">IronKarateBall.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[7]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">JoesChop..mp4</property>
+                    <property name="target" type="string">JoesChop..mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[8]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">JoesChop.mp4</property>
+                    <property name="target" type="string">JoesChop.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[9]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">LC_KarateBlob..mp4</property>
+                    <property name="target" type="string">LC_KarateBlob..mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[10]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">LC_KarateBlob.mp4</property>
+                    <property name="target" type="string">LC_KarateBlob.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[11]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">LeadKarateBall..mp4</property>
+                    <property name="target" type="string">LeadKarateBall..mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[12]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">LeadKarateBall.mp4</property>
+                    <property name="target" type="string">LeadKarateBall.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[13]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">freefall.mp4</property>
+                    <property name="target" type="string">freefall.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[20]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">loop</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/loop/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">loop1h..mp4</property>
+                    <property name="target" type="string">loop1h..mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">loop1h.mp4</property>
+                    <property name="target" type="string">loop1h.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">loop2h..mp4</property>
+                    <property name="target" type="string">loop2h..mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">loop2h.mp4</property>
+                    <property name="target" type="string">loop2h.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">loop3h..mp4</property>
+                    <property name="target" type="string">loop3h..mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[6]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">loop3h.mp4</property>
+                    <property name="target" type="string">loop3h.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[7]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">loop4h..mp4</property>
+                    <property name="target" type="string">loop4h..mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[8]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">loop4h.mp4</property>
+                    <property name="target" type="string">loop4h.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[9]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">loop5h..mp4</property>
+                    <property name="target" type="string">loop5h..mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[10]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">loop5h.mp4</property>
+                    <property name="target" type="string">loop5h.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[11]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">loop6h..mp4</property>
+                    <property name="target" type="string">loop6h..mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[12]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">loop6h.mp4</property>
+                    <property name="target" type="string">loop6h.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[21]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">marimba</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/marimba/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Marimba-01.mp4</property>
+                    <property name="target" type="string">Marimba-01.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[22]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">pencil</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/pencil/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">pencil1.mp4</property>
+                    <property name="target" type="string">pencil1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">pencil2.mp4</property>
+                    <property name="target" type="string">pencil2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[23]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">projectiles</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/projectiles/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">toy_h.mp4</property>
+                    <property name="target" type="string">toy_h.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">toy_h_c.mp4</property>
+                    <property name="target" type="string">toy_h_c.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">toy_l.mp4</property>
+                    <property name="target" type="string">toy_l.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">toy_l_c.mp4</property>
+                    <property name="target" type="string">toy_l_c.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">toy_meas.mp4</property>
+                    <property name="target" type="string">toy_meas.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[24]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">puckbar</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/puckbar/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">puck-bar-offcenter.mp4</property>
+                    <property name="target" type="string">puck-bar-offcenter.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">puck-bar-oncenter.mp4</property>
+                    <property name="target" type="string">puck-bar-oncenter.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[25]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">rc</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/rc/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">RC-10.mp4</property>
+                    <property name="target" type="string">RC-10.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">RC-15.mp4</property>
+                    <property name="target" type="string">RC-15.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">RC-33.mp4</property>
+                    <property name="target" type="string">RC-33.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">RC-bulb.mp4</property>
+                    <property name="target" type="string">RC-bulb.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[26]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">refl-refr</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/refl-refr/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Acrylite_block.mp4</property>
+                    <property name="target" type="string">Acrylite_block.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Acrylite_into_air.mp4</property>
+                    <property name="target" type="string">Acrylite_into_air.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Air_into_Acrylite.mp4</property>
+                    <property name="target" type="string">Air_into_Acrylite.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">concave_lens.mp4</property>
+                    <property name="target" type="string">concave_lens.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">concave_mirror.mp4</property>
+                    <property name="target" type="string">concave_mirror.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[6]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">convex_lens.mp4</property>
+                    <property name="target" type="string">convex_lens.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[7]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">convex_mirror.mp4</property>
+                    <property name="target" type="string">convex_mirror.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[8]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">double_convex_1.mp4</property>
+                    <property name="target" type="string">double_convex_1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[9]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">double_convex_2.mp4</property>
+                    <property name="target" type="string">double_convex_2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[10]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">double_convex_3.mp4</property>
+                    <property name="target" type="string">double_convex_3.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[11]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">double_convex_4.mp4</property>
+                    <property name="target" type="string">double_convex_4.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[12]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">equilat_triangle_1.mp4</property>
+                    <property name="target" type="string">equilat_triangle_1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[13]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">equilat_triangle_2.mp4</property>
+                    <property name="target" type="string">equilat_triangle_2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[14]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">right_triangle_1.mp4</property>
+                    <property name="target" type="string">right_triangle_1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[27]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">resistors</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/resistors/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Resistance_bulb.mp4</property>
+                    <property name="target" type="string">Resistance_bulb.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Resistor_A.mp4</property>
+                    <property name="target" type="string">Resistor_A.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Resistor_B.mp4</property>
+                    <property name="target" type="string">Resistor_B.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Resistor_C.mp4</property>
+                    <property name="target" type="string">Resistor_C.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Resistors_ApB.mp4</property>
+                    <property name="target" type="string">Resistors_ApB.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[6]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Resistors_ApBsC.mp4</property>
+                    <property name="target" type="string">Resistors_ApBsC.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[7]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Resistors_AsB.mp4</property>
+                    <property name="target" type="string">Resistors_AsB.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[8]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Resistors_AsC.mp4</property>
+                    <property name="target" type="string">Resistors_AsC.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[9]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Resistors_BpC.mp4</property>
+                    <property name="target" type="string">Resistors_BpC.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[10]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Resistors_BsC.mp4</property>
+                    <property name="target" type="string">Resistors_BsC.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[11]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">bulb_meter.mp4</property>
+                    <property name="target" type="string">bulb_meter.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[12]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">resistor_meter.mp4</property>
+                    <property name="target" type="string">resistor_meter.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[28]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">ripple</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/ripple/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Ripple_Tank_Waves_1.mp4</property>
+                    <property name="target" type="string">Ripple_Tank_Waves_1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Ripple_Tank_Waves_2.mp4</property>
+                    <property name="target" type="string">Ripple_Tank_Waves_2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[29]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">shm</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/shm/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">shm_100a.mp4</property>
+                    <property name="target" type="string">shm_100a.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">shm_100b.mp4</property>
+                    <property name="target" type="string">shm_100b.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">shm_150.mp4</property>
+                    <property name="target" type="string">shm_150.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">shm_200.mp4</property>
+                    <property name="target" type="string">shm_200.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">shm_300.mp4</property>
+                    <property name="target" type="string">shm_300.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[6]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">shm_50.mp4</property>
+                    <property name="target" type="string">shm_50.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[7]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">shm_unkn1.mp4</property>
+                    <property name="target" type="string">shm_unkn1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[8]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">shm_unkn2.mp4</property>
+                    <property name="target" type="string">shm_unkn2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[30]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">souprace</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/souprace/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">BrothSoup.mp4</property>
+                    <property name="target" type="string">BrothSoup.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">CreamSoup.mp4</property>
+                    <property name="target" type="string">CreamSoup.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">SoupRace.mp4</property>
+                    <property name="target" type="string">SoupRace.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[31]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">springcart</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/springcart/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">spring-cal.mp4</property>
+                    <property name="target" type="string">spring-cal.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">spring-cart.mp4</property>
+                    <property name="target" type="string">spring-cart.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[32]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">stds</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/stds/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">fall-d.mp4</property>
+                    <property name="target" type="string">fall-d.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">fall.mp4</property>
+                    <property name="target" type="string">fall.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">throw-d.mp4</property>
+                    <property name="target" type="string">throw-d.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">throw.mp4</property>
+                    <property name="target" type="string">throw.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[33]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">thermo</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/thermo/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">ConstPressAir.mp4</property>
+                    <property name="target" type="string">ConstPressAir.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[34]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">toycar</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/toycar/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">8.20.04.remotecar1-2.mp4</property>
+                    <property name="target" type="string">8.20.04.remotecar1-2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">8.23.04.2speedremotecar2-2.mp4</property>
+                    <property name="target" type="string">8.23.04.2speedremotecar2-2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[35]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">windtunnel</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/windtunnel/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">10.avi</property>
+                    <property name="target" type="string">10.avi</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">10.mp4</property>
+                    <property name="target" type="string">10.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">16.avi</property>
+                    <property name="target" type="string">16.avi</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">16.mp4</property>
+                    <property name="target" type="string">16.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">18.mov</property>
+                    <property name="target" type="string">18.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[6]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">18.mp4</property>
+                    <property name="target" type="string">18.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[7]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">30.mov</property>
+                    <property name="target" type="string">30.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[8]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">30.mp4</property>
+                    <property name="target" type="string">30.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[9]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">LP_Wind_Tunnel_10.avi</property>
+                    <property name="target" type="string">LP_Wind_Tunnel_10.avi</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[10]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">LP_Wind_Tunnel_10.mp4</property>
+                    <property name="target" type="string">LP_Wind_Tunnel_10.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[36]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">yo-yo</property>
+            <property name="base_path" type="string">https://rbtsps.ieee-saopen.org/livephoto/LPVideos/yo-yo/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">An_Overview.html</property>
+                    <property name="html_path" type="string">An_Overview.html</property>
+                    <property name="target" type="string">An_Overview.html</property>
+                    <property name="type" type="string">HTML</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">yo-yo_disk1.mp4</property>
+                    <property name="target" type="string">yo-yo_disk1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">yo-yo_disk2.mp4</property>
+                    <property name="target" type="string">yo-yo_disk2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">yo-yo_hoop1.mp4</property>
+                    <property name="target" type="string">yo-yo_hoop1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">yo-yo_hoop2.mp4</property>
+                    <property name="target" type="string">yo-yo_hoop2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">yo-yo_hoop3.mp4</property>
+                    <property name="target" type="string">yo-yo_hoop3.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[6]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">yo-yo_hoop4.mp4</property>
+                    <property name="target" type="string">yo-yo_hoop4.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[7]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">yo-yo_hoop5.mp4</property>
+                    <property name="target" type="string">yo-yo_hoop5.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+    </property>
+</object>
