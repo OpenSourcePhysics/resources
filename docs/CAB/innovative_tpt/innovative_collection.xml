@@ -2,6 +2,7 @@
 <object class="org.opensourcephysics.tools.LibraryCollection">
     <property name="name" type="string">Innovative Uses of Video Analysis</property>
     <property name="html_path" type="string">html/innovative_intro.html</property>
+    <property name="base_path" type="string">https://opensourcephysics.github.io/resources/CAB/innovative_tpt/</property>
     <property name="metadata" type="array" class="[[Ljava.lang.String;">
         <property name="[0]" type="array" class="[Ljava.lang.String;">
             <property name="[0]" type="string">Author</property>
@@ -49,7 +50,6 @@
                 <property name="[1]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">Elastic or Inelastic?</property>
-                    <property name="html_path" type="string">collision_elastic_inelastic.trz!/html/collision_elastic_inelastic_info.html</property>
                     <property name="target" type="string">collision_elastic_inelastic.trz</property>
                     <property name="type" type="string">Tracker</property>
                     <property name="metadata" type="array" class="[[Ljava.lang.String;">
@@ -71,7 +71,6 @@
                 <property name="[2]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">Angular Tethered</property>
-                    <property name="html_path" type="string">collide_tethered.trz!/html/collide_tethered_info.html</property>
                     <property name="target" type="string">collide_tethered.trz</property>
                     <property name="type" type="string">Tracker</property>
                     <property name="metadata" type="array" class="[[Ljava.lang.String;">
@@ -93,7 +92,6 @@
                 <property name="[3]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">Angular Inelastic</property>
-                    <property name="html_path" type="string">collision_angular_inelastic.trz!/html/collision_angular_inelastic_info.html</property>
                     <property name="target" type="string">collision_angular_inelastic.trz</property>
                     <property name="type" type="string">Tracker</property>
                     <property name="metadata" type="array" class="[[Ljava.lang.String;">
@@ -133,9 +131,7 @@
                 <property name="[0]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">Terminal Velocity</property>
-                    <property name="html_path" type="string">terminal_velocity.trz!/html/terminal_velocity_info.html</property>
                     <property name="target" type="string">terminal_velocity.trz</property>
-                    <property name="thumbnail" type="string">C:\Users\dobro\AppData\Local\OSP\Cache\osp-local_machine\Users\dobro\website\tracker-davidson\library\innovative_tpt\terminal_velocity_thumbnail.png</property>
                     <property name="type" type="string">Tracker</property>
                     <property name="metadata" type="array" class="[[Ljava.lang.String;">
                         <property name="[0]" type="array" class="[Ljava.lang.String;">
@@ -156,9 +152,7 @@
                 <property name="[1]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">Particle Models</property>
-                    <property name="html_path" type="string">particle_models.trz!/html/particle_models_info.html</property>
                     <property name="target" type="string">particle_models.trz</property>
-                    <property name="thumbnail" type="string">C:\Users\dobro\AppData\Local\OSP\Cache\osp-local_machine\Users\dobro\website\tracker-davidson\library\innovative_tpt\particle_models_thumbnail.png</property>
                     <property name="type" type="string">Tracker</property>
                     <property name="metadata" type="array" class="[[Ljava.lang.String;">
                         <property name="[0]" type="array" class="[Ljava.lang.String;">
@@ -179,7 +173,6 @@
                 <property name="[2]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">The Viscous Model</property>
-                    <property name="html_path" type="string">viscous_model.trz!/html/viscous_model_info.html</property>
                     <property name="target" type="string">viscous_model.trz</property>
                     <property name="type" type="string">Tracker</property>
                     <property name="metadata" type="array" class="[[Ljava.lang.String;">
@@ -201,9 +194,7 @@
                 <property name="[3]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">The Drag Model</property>
-                    <property name="html_path" type="string">drag_model.trz!/html/drag_model_info.html</property>
                     <property name="target" type="string">drag_model.trz</property>
-                    <property name="thumbnail" type="string">C:\Users\dobro\AppData\Local\OSP\Cache\osp-local_machine\Users\dobro\website\tracker-davidson\library\innovative_tpt\drag_model_thumbnail.png</property>
                     <property name="type" type="string">Tracker</property>
                     <property name="metadata" type="array" class="[[Ljava.lang.String;">
                         <property name="[0]" type="array" class="[Ljava.lang.String;">
@@ -242,7 +233,6 @@
                 <property name="[0]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">Measuring Thermal Expansion</property>
-                    <property name="html_path" type="string">thermal_expansion.trz!/html/thermal_expansion_info.html</property>
                     <property name="target" type="string">thermal_expansion.trz</property>
                     <property name="type" type="string">Tracker</property>
                     <property name="metadata" type="array" class="[[Ljava.lang.String;">
@@ -284,7 +274,6 @@
                     <property name="name" type="string">Red and Green HeNe Lasers</property>
                     <property name="html_path" type="string">HeNe_lasers.trz!/html/HeNe_lasers_info.html</property>
                     <property name="target" type="string">HeNe_lasers.trz</property>
-                    <property name="thumbnail" type="string">C:\Users\dobro\AppData\Local\OSP\Cache\osp-local_machine\Users\dobro\website\tracker-davidson\library\innovative_tpt\HeNe_lasers_thumbnail.png</property>
                     <property name="type" type="string">Tracker</property>
                     <property name="metadata" type="array" class="[[Ljava.lang.String;">
                         <property name="[0]" type="array" class="[Ljava.lang.String;">
@@ -305,9 +294,7 @@
                 <property name="[1]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">Green Solid-State Laser</property>
-                    <property name="html_path" type="string">green_ss_laser.trz!/html/green_ss_laser_info.html</property>
                     <property name="target" type="string">green_ss_laser.trz</property>
-                    <property name="thumbnail" type="string">C:\Users\dobro\AppData\Local\OSP\Cache\osp-local_machine\Users\dobro\website\tracker-davidson\library\innovative_tpt\green_ss_laser_thumbnail.png</property>
                     <property name="type" type="string">Tracker</property>
                     <property name="metadata" type="array" class="[[Ljava.lang.String;">
                         <property name="[0]" type="array" class="[Ljava.lang.String;">
@@ -328,9 +315,7 @@
                 <property name="[2]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">Hydrogen Gas</property>
-                    <property name="html_path" type="string">hydrogen_gas.trz!/html/hydrogen_gas_info.html</property>
                     <property name="target" type="string">hydrogen_gas.trz</property>
-                    <property name="thumbnail" type="string">C:\Users\dobro\AppData\Local\OSP\Cache\osp-local_machine\Users\dobro\website\tracker-davidson\library\innovative_tpt\hydrogen_gas_thumbnail.png</property>
                     <property name="type" type="string">Tracker</property>
                     <property name="metadata" type="array" class="[[Ljava.lang.String;">
                         <property name="[0]" type="array" class="[Ljava.lang.String;">
@@ -351,7 +336,6 @@
                 <property name="[3]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">Mercury Gas</property>
-                    <property name="html_path" type="string">mercury_gas.trz!/html/mercury_gas_info.html</property>
                     <property name="target" type="string">mercury_gas.trz</property>
                     <property name="type" type="string">Tracker</property>
                     <property name="metadata" type="array" class="[[Ljava.lang.String;">
@@ -373,9 +357,7 @@
                 <property name="[4]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">Fluorescent Red Dye</property>
-                    <property name="html_path" type="string">red_dye.trz!/html/red_dye_info.html</property>
                     <property name="target" type="string">red_dye.trz</property>
-                    <property name="thumbnail" type="string">C:\Users\dobro\AppData\Local\OSP\Cache\osp-local_machine\Users\dobro\website\tracker-davidson\library\innovative_tpt\red_dye_thumbnail.png</property>
                     <property name="type" type="string">Tracker</property>
                     <property name="metadata" type="array" class="[[Ljava.lang.String;">
                         <property name="[0]" type="array" class="[Ljava.lang.String;">
@@ -396,9 +378,7 @@
                 <property name="[5]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">Fluorescent Lamp, Cool White</property>
-                    <property name="html_path" type="string">fluor_lamp_6300.trz!/html/fluor_lamp_6300_info.html</property>
                     <property name="target" type="string">fluor_lamp_6300.trz</property>
-                    <property name="thumbnail" type="string">C:\Users\dobro\AppData\Local\OSP\Cache\osp-local_machine\Users\dobro\website\tracker-davidson\library\innovative_tpt\fluor_lamp_6300_thumbnail.png</property>
                     <property name="type" type="string">Tracker</property>
                     <property name="metadata" type="array" class="[[Ljava.lang.String;">
                         <property name="[0]" type="array" class="[Ljava.lang.String;">
@@ -419,9 +399,7 @@
                 <property name="[6]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">Fluorescent Lamp, Warm White</property>
-                    <property name="html_path" type="string">fluor_lamp_3000.trz!/html/fluor_lamp_3000_info.html</property>
                     <property name="target" type="string">fluor_lamp_3000.trz</property>
-                    <property name="thumbnail" type="string">C:\Users\dobro\AppData\Local\OSP\Cache\osp-local_machine\Users\dobro\website\tracker-davidson\library\innovative_tpt\fluor_lamp_3000_thumbnail.png</property>
                     <property name="type" type="string">Tracker</property>
                     <property name="metadata" type="array" class="[[Ljava.lang.String;">
                         <property name="[0]" type="array" class="[Ljava.lang.String;">
