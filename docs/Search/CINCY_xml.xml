@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object class="org.opensourcephysics.tools.LibraryCollection">
+    <property name="name" type="string">CINCY Collection</property>
+    <property name="html_path" type="string">CINCY_info.html</property>
+    <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+        <property name="[0]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Force and Motion Insructions and Pre-Lab</property>
+            <property name="html_path" type="string">CINCY_info.html</property>
+            <property name="target" type="string">Lab_04_Pre_Lab_Tracker_Instructions.pdf</property>
+            <property name="type" type="string">PDF</property>
+        </object>
+        </property>
+        <property name="[1]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Force and Motion Pre-Lab Video</property>
+            <property name="target" type="string">Lab_04_Pre_Lab_Sample.mp4</property>
+            <property name="type" type="string">Video</property>
+        </object>
+        </property>
+        <property name="[2]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Force and Motion Rubric</property>
+            <property name="target" type="string">Lab_05_Rubric.pdf</property>
+            <property name="type" type="string">PDF</property>
+        </object>
+        </property>
+        <property name="[3]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Force and Motion Report Requirements</property>
+            <property name="target" type="string">Lab_05_Report_Requirements.pdf</property>
+            <property name="type" type="string">PDF</property>
+        </object>
+        </property>
+        <property name="[4]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">Force and Motion Videos</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Lab 4</property>
+                    <property name="html_path" type="string">CINCY_info.html</property>
+                    <property name="target" type="string">Lab_04_Force_and_Motion_Part_I.pdf</property>
+                    <property name="type" type="string">PDF</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Lab 5</property>
+                    <property name="html_path" type="string">CINCY_info.html</property>
+                    <property name="target" type="string">Lab_05_Force_and_Motion_Part_II.pdf</property>
+                    <property name="type" type="string">PDF</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Set 1: mass values</property>
+                    <property name="html_path" type="string">Lab45/Set_1_Masses.html</property>
+                    <property name="target" type="string">Lab45/DataSet_1_cart_bob_masses.xlsx</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Set 1: cart drift with no force</property>
+                    <property name="target" type="string">Lab45/Data Set 1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryCollection">
+                    <property name="name" type="string">Set 1: IV force, CV system mass</property>
+                    <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                        <property name="[0]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Force is 1 hanging fishbob</property>
+                            <property name="target" type="string">Lab45/DataSet_1_IV_Force_CV_SystemMass/1_hanging_fishbob.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[1]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Force is 2 hanging fishbobs</property>
+                            <property name="target" type="string">Lab45/DataSet_1_IV_Force_CV_SystemMass/2_hanging_fishbob.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[2]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Force is 3 hanging fishbobs</property>
+                            <property name="target" type="string">Lab45/DataSet_1_IV_Force_CV_SystemMass/3_hanging_fishbob.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[3]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Force is 4 hanging fishbobs</property>
+                            <property name="target" type="string">Lab45/DataSet_1_IV_Force_CV_SystemMass/4_hanging_fishbobs.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[4]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Force is 5 hanging fishbobs</property>
+                            <property name="target" type="string">Lab45/DataSet_1_IV_Force_CV_SystemMass/5_hanging_fishbobs.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[5]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Force is 6 hanging fishbobs</property>
+                            <property name="target" type="string">Lab45/DataSet_1_IV_Force_CV_SystemMass/6_hanging_fishbobs.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[6]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Force is 7 hanging fishbobs</property>
+                            <property name="target" type="string">Lab45/DataSet_1_IV_Force_CV_SystemMass/7_hanging_fishbobs.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[7]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Force is 8 hanging fishbobs</property>
+                            <property name="target" type="string">Lab45/DataSet_1_IV_Force_CV_SystemMass/8_hanging_fishbobs.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                    </property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryCollection">
+                    <property name="name" type="string">Set 1: IV system mass, CV force is 2 fishbobs</property>
+                    <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                        <property name="[0]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">mass is cart plus 2 bobs plus 0 g</property>
+                            <property name="target" type="string">Lab45/DataSet_1_IV_SystemMass_CV_Force/2_bobs_cart_plus_0g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[1]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">mass is cart plus 2 bobs plus 50 g</property>
+                            <property name="target" type="string">Lab45/DataSet_1_IV_SystemMass_CV_Force/2_bobs_cart_plus_100g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[2]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">mass is cart plus 2 bobs plus 100 g</property>
+                            <property name="target" type="string">Lab45/DataSet_1_IV_SystemMass_CV_Force/2_bobs_cart_plus_150g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[3]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">mass is cart plus 2 bobs plus 150 g</property>
+                            <property name="target" type="string">Lab45/DataSet_1_IV_SystemMass_CV_Force/2_bobs_cart_plus_150g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[4]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">mass is cart plus 2 bobs plus 250 g</property>
+                            <property name="target" type="string">Lab45/DataSet_1_IV_SystemMass_CV_Force/2_bobs_cart_plus_250g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[5]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">mass is cart plus 2 bobs plus 350 g</property>
+                            <property name="target" type="string">Lab45/DataSet_1_IV_SystemMass_CV_Force/2_bobs_cart_plus_350g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[6]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">mass is cart plus 2 bobs plus 450 g</property>
+                            <property name="target" type="string">Lab45/DataSet_1_IV_SystemMass_CV_Force/2_bobs_cart_plus_450g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                    </property>
+                </object>
+                </property>
+                <property name="[6]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Set 2: mass values</property>
+                    <property name="html_path" type="string">Lab45/Set_2_Masses.html</property>
+                    <property name="target" type="string">Lab45/DataSet_2_cart_bob_masses.xlsx</property>
+                </object>
+                </property>
+                <property name="[7]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryCollection">
+                    <property name="name" type="string">Set 2: IV force, CV system mass</property>
+                    <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                        <property name="[0]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Force is 1 hanging fishbob</property>
+                            <property name="target" type="string">Lab45/DataSet_2_IV_Force_CV_SystemMass/1_hanging_fishbob.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[1]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Force is 2 hanging fishbobs</property>
+                            <property name="target" type="string">Lab45/DataSet_2_IV_Force_CV_SystemMass/2_hanging_fishbob.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[2]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Force is 3 hanging fishbobs</property>
+                            <property name="target" type="string">Lab45/DataSet_2_IV_Force_CV_SystemMass/3_hanging_fishbob.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[3]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Force is 4 hanging fishbob4</property>
+                            <property name="target" type="string">Lab45/DataSet_2_IV_Force_CV_SystemMass/4_hanging_fishbob.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[4]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Force is 5 hanging fishbob5</property>
+                            <property name="target" type="string">Lab45/DataSet_2_IV_Force_CV_SystemMass/5_hanging_fishbob.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[5]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Force is 6 hanging fishbob6</property>
+                            <property name="target" type="string">Lab45/DataSet_2_IV_Force_CV_SystemMass/6_hanging_fishbob.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[6]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Force is 7 hanging fishbobs</property>
+                            <property name="target" type="string">Lab45/DataSet_2_IV_Force_CV_SystemMass/7_hanging_fishbob.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[7]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Force is 8 hanging fishbobs</property>
+                            <property name="target" type="string">Lab45/DataSet_2_IV_Force_CV_SystemMass/8_hanging_fishbob.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                    </property>
+                </object>
+                </property>
+                <property name="[8]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryCollection">
+                    <property name="name" type="string">Set 2: IV system mass, CV force is 2 fishbobs</property>
+                    <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                        <property name="[0]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">mass is cart plus 2 bobs plus 0 g</property>
+                            <property name="target" type="string">Lab45/DataSet_2_IV_SystemMass_CV_Force/2_bobs_cart_plus_0g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[1]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">mass is cart plus 2 bobs plus 50 g</property>
+                            <property name="target" type="string">Lab45/DataSet_2_IV_SystemMass_CV_Force/2_bobs_cart_plus_50g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[2]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">mass is cart plus 2 bobs plus 100 g</property>
+                            <property name="target" type="string">Lab45/DataSet_2_IV_SystemMass_CV_Force/2_bobs_cart_plus_100g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[3]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">mass is cart plus 2 bobs plus 150 g</property>
+                            <property name="target" type="string">Lab45/DataSet_2_IV_SystemMass_CV_Force/2_bobs_cart_plus_150g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[4]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">mass is cart plus 2 bobs plus 250 g</property>
+                            <property name="target" type="string">Lab45/DataSet_2_IV_SystemMass_CV_Force/2_bobs_cart_plus_250g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[5]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">mass is cart plus 2 bobs plus 350 g</property>
+                            <property name="target" type="string">Lab45/DataSet_2_IV_SystemMass_CV_Force/2_bobs_cart_plus_350g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[6]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">mass is cart plus 2 bobs plus 350 g</property>
+                            <property name="target" type="string">Lab45/DataSet_2_IV_SystemMass_CV_Force/2_bobs_cart_plus_350g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[7]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">mass is cart plus 2 bobs plus 450 g</property>
+                            <property name="target" type="string">Lab45/DataSet_2_IV_SystemMass_CV_Force/2_bobs_cart_plus_450g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                    </property>
+                </object>
+                </property>
+                <property name="[9]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Set 3: mass values</property>
+                    <property name="html_path" type="string">Lab45/Set_3_Masses.html</property>
+                    <property name="target" type="string">Lab45/DataSet_3_cart_bob_masses.xlsx</property>
+                </object>
+                </property>
+                <property name="[10]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryCollection">
+                    <property name="name" type="string">Set 3: IV force, CV system mass</property>
+                    <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                        <property name="[0]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Force is 1 hanging fishbob</property>
+                            <property name="target" type="string">Lab45/DataSet_3_IV_Force_CV_SystemMass/Data Set 3 - Force is 1 hanging fishbob.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[1]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Force is 2 hanging fishbobs</property>
+                            <property name="target" type="string">Lab45/DataSet_3_IV_Force_CV_SystemMass/Data Set 3 - Force is 2 hanging fishbobs.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[2]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Force is 3 hanging fishbobs</property>
+                            <property name="target" type="string">Lab45/DataSet_3_IV_Force_CV_SystemMass/Data Set 3 - Force is 3 hanging fishbobs.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[3]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Force is 4 hanging fishbobs</property>
+                            <property name="target" type="string">Lab45/DataSet_3_IV_Force_CV_SystemMass/Data Set 3 - Force is 4 hanging fishbobs.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[4]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Force is 5 hanging fishbobs</property>
+                            <property name="target" type="string">Lab45/DataSet_3_IV_Force_CV_SystemMass/Data Set 3 - Force is 5 hanging fishbobs.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[5]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Force is 6 hanging fishbobs</property>
+                            <property name="target" type="string">Lab45/DataSet_3_IV_Force_CV_SystemMass/Data Set 3 - Force is 6 hanging fishbobs.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[6]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Force is 7 hanging fishbobs</property>
+                            <property name="target" type="string">Lab45/DataSet_3_IV_Force_CV_SystemMass/Data Set 3 - Force is 7 hanging fishbobs.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[7]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Force is 8 hanging fishbobs</property>
+                            <property name="target" type="string">Lab45/DataSet_3_IV_Force_CV_SystemMass/Data Set 3 - Force is 8 hanging fishbobs.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                    </property>
+                </object>
+                </property>
+                <property name="[11]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryCollection">
+                    <property name="name" type="string">Set 3: IV system mass, CV force is 2 fishbobs</property>
+                    <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                        <property name="[0]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">mass is cart plus 2 bobs plus 0 g</property>
+                            <property name="target" type="string">Lab45/DataSet_3_IV_SystemMass_CV_Force/2_bobs_cart_plus_0g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[1]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">mass is cart plus 2 bobs plus 50 g</property>
+                            <property name="target" type="string">Lab45/DataSet_3_IV_SystemMass_CV_Force/2_bobs_cart_plus_50g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[2]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">mass is cart plus 2 bobs plus 100 g</property>
+                            <property name="target" type="string">Lab45/DataSet_3_IV_SystemMass_CV_Force/2_bobs_cart_plus_100g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[3]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">mass is cart plus 2 bobs plus 150 g</property>
+                            <property name="target" type="string">Lab45/DataSet_3_IV_SystemMass_CV_Force/2_bobs_cart_plus_150g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[4]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">mass is cart plus 2 bobs plus 250 g</property>
+                            <property name="target" type="string">Lab45/DataSet_3_IV_SystemMass_CV_Force/2_bobs_cart_plus_250g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[5]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">mass is cart plus 2 bobs plus 350 g</property>
+                            <property name="target" type="string">Lab45/DataSet_3_IV_SystemMass_CV_Force/2_bobs_cart_plus_350g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[6]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">mass is cart plus 2 bobs plus 450 g</property>
+                            <property name="target" type="string">Lab45/DataSet_3_IV_SystemMass_CV_Force/2_bobs_cart_plus_450g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                    </property>
+                </object>
+                </property>
+                <property name="[12]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">sample student results</property>
+                    <property name="target" type="string">Lab45/Lab 03 - file for students to share their models.docx</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[5]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Simple Harmonic Motion Instructions</property>
+            <property name="html_path" type="string">CINCY_info.html</property>
+            <property name="target" type="string">Lab_06_07_Tracker_Instrunctions.pdf</property>
+            <property name="type" type="string">PDF</property>
+        </object>
+        </property>
+        <property name="[6]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">Simple Harmonic Motion Videos</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Lab 6/7</property>
+                    <property name="html_path" type="string">CINCY_info.html</property>
+                    <property name="target" type="string">Lab_06_07_Simple_Harmonic_Motion.pdf</property>
+                    <property name="type" type="string">PDF</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryCollection">
+                    <property name="name" type="string">IV mass on spring</property>
+                    <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                        <property name="[0]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Mass on spring parameter values</property>
+                            <property name="html_path" type="string">Lab67/IV_Mass_on_Spring/MassOnSpringParam.html</property>
+                            <property name="target" type="string">Lab67/IV_Mass_on_Spring/IV_Mass_on_Spring.xlsx</property>
+                        </object>
+                        </property>
+                        <property name="[1]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Video_1_mass_51.5g</property>
+                            <property name="target" type="string">Lab67/IV_Mass_on_Spring/Video_1_51.5g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[2]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Video_2_mass_91.5g</property>
+                            <property name="target" type="string">Lab67/IV_Mass_on_Spring/Video_2_91.5g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[3]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Video_3_mass_111.5g</property>
+                            <property name="target" type="string">Lab67/IV_Mass_on_Spring/Video_3_111.5g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[4]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Video_4_mass_131.5g</property>
+                            <property name="target" type="string">Lab67/IV_Mass_on_Spring/Video_4_131.5g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[5]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Video_5_mass_171.5g</property>
+                            <property name="target" type="string">Lab67/IV_Mass_on_Spring/Video_5_171.5g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[6]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Video_6_mass_211.5g</property>
+                            <property name="target" type="string">Lab67/IV_Mass_on_Spring/Video_6_211.5g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[7]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Video_7_mass_251.5g</property>
+                            <property name="target" type="string">Lab67/IV_Mass_on_Spring/Video_7_251.5g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[8]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Video_8_mass_291.5g</property>
+                            <property name="target" type="string">Lab67/IV_Mass_on_Spring/Video_8_291.5g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[9]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Video_9_mass_311.5g</property>
+                            <property name="target" type="string">Lab67/IV_Mass_on_Spring/Video_9_311.5g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[10]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Video_10_mass_331.5g</property>
+                            <property name="target" type="string">Lab67/IV_Mass_on_Spring/Video_10_331.5g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[11]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Video_11_mass_371.5g</property>
+                            <property name="target" type="string">Lab67/IV_Mass_on_Spring/Video_11_371.5g.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                    </property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryCollection">
+                    <property name="name" type="string">IV pull distance</property>
+                    <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                        <property name="[0]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Pull distance parameter values</property>
+                            <property name="html_path" type="string">Lab67/IV_Pull_Distance/PullDistanceParam.html</property>
+                            <property name="target" type="string">Lab67/IV_Pull_Distance/IV_Pull_Distance.xlsx</property>
+                        </object>
+                        </property>
+                        <property name="[1]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Video_20_down_3_cm</property>
+                            <property name="target" type="string">Lab67/IV_Pull_Distance/Video_20_down_3_cm.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[2]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Video_21_down_5_cm</property>
+                            <property name="target" type="string">Lab67/IV_Pull_Distance/Video_21_down_5_cm.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[3]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Video_22_down_8_cm</property>
+                            <property name="target" type="string">Lab67/IV_Pull_Distance/Video_22_down_8_cm.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[4]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Video_23_down_10_cm</property>
+                            <property name="target" type="string">Lab67/IV_Pull_Distance/Video_23_down_10_cm.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[5]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Video_24_down_15_cm</property>
+                            <property name="target" type="string">Lab67/IV_Pull_Distance/Video_24_down_15_cm.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[6]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Video_25_down_20_cm</property>
+                            <property name="target" type="string">Lab67/IV_Pull_Distance/Video_25_down_20_cm.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                    </property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryCollection">
+                    <property name="name" type="string">IV spring constant</property>
+                    <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                        <property name="[0]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Spring constant parameter values</property>
+                            <property name="html_path" type="string">Lab67/IV_Spring_Constant/SpringParam.html</property>
+                            <property name="target" type="string">Lab67/IV_Spring_Constant/IV_Spring_Constants.xlsx</property>
+                        </object>
+                        </property>
+                        <property name="[1]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Video_30_k_approx_4 N/m</property>
+                            <property name="target" type="string">Lab67/IV_Spring_Constant/Video_30_k_approx_15.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[2]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Video_31_k_approx_7 N/m</property>
+                            <property name="target" type="string">Lab67/IV_Spring_Constant/Video_31_k_approx_7.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[3]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Video_32_k_approx_15 N/m</property>
+                            <property name="target" type="string">Lab67/IV_Spring_Constant/Video_32_k_approx_15.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[4]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Video_33_k_approx_35 N/m</property>
+                            <property name="target" type="string">Lab67/IV_Spring_Constant/Video_33_k_approx_35.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[5]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Video_34_k_approx_50 N/m</property>
+                            <property name="target" type="string">Lab67/IV_Spring_Constant/Video_34_k_approx_50.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[6]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Video_35_k_approx_54 N/m</property>
+                            <property name="target" type="string">Lab67/IV_Spring_Constant/Video_35_k_approx_54.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                        <property name="[7]" type="object">
+                        <object class="org.opensourcephysics.tools.LibraryResource">
+                            <property name="name" type="string">Video_36_k_approx_76 N/m</property>
+                            <property name="target" type="string">Lab67/IV_Spring_Constant/Video_36_k_approx_76.mp4</property>
+                            <property name="type" type="string">Video</property>
+                        </object>
+                        </property>
+                    </property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[7]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Rotational Motion Instructions</property>
+            <property name="target" type="string">Lab_08_09_Rotation.pdf</property>
+            <property name="type" type="string">PDF</property>
+        </object>
+        </property>
+        <property name="[8]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Rotational Motion Pre-Lab</property>
+            <property name="target" type="string">Lab_08_Pre_Lab.pdf</property>
+            <property name="type" type="string">PDF</property>
+        </object>
+        </property>
+        <property name="[9]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">Rotational Motion Rubrick</property>
+            <property name="target" type="string">Lab_08_09_Rubric.pdf</property>
+            <property name="type" type="string">PDF</property>
+        </object>
+        </property>
+        <property name="[10]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">Rotational Motion Videos</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Rotational Motion I</property>
+                    <property name="target" type="string">Lab_08_Rotation.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Rotational Motion II</property>
+                    <property name="target" type="string">Lab_08_Roation_string_breaks.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[11]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">Instructor Notes (password required)</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Force and Motion Part I</property>
+                    <property name="html_path" type="string">INSTRUCTOR/InstructorNotes.html</property>
+                    <property name="target" type="string">INSTRUCTOR/Force_and_Motion_Instructor_Part_I.pdf</property>
+                    <property name="type" type="string">PDF</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Force and Motion Part II</property>
+                    <property name="html_path" type="string">INSTRUCTOR/InstructorNotes.html</property>
+                    <property name="target" type="string">INSTRUCTOR/Force_and_Motion_Instructor_Part_II.pdf</property>
+                    <property name="type" type="string">PDF</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Simple Harmonic Motion</property>
+                    <property name="html_path" type="string">INSTRUCTOR/InstructorNotes.html</property>
+                    <property name="target" type="string">INSTRUCTOR/Simple_Harmonic_Motion_Instructor.pdf</property>
+                    <property name="type" type="string">PDF</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+    </property>
+</object>
