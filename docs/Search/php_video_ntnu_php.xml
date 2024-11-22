@@ -1,0 +1,1577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object class="org.opensourcephysics.tools.LibraryCollection">
+    <property name="name" type="string">NTNU Videos</property>
+    <property name="html_path" type="string">php_video_ntnu_info.html</property>
+    <property name="base_path" type="string">https://home.phys.ntnu.no/tracker_videos/video/</property>
+    <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+        <property name="[0]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">Collision Videos</property>
+            <property name="html_path" type="string">php_video_ntnu_info.html</property>
+            <property name="base_path" type="string">https://home.phys.ntnu.no/tracker_videos/video/1D_collisions/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Elastic1D_1</property>
+                    <property name="target" type="string">Elastic1D_1.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Elastic1D_1</property>
+                    <property name="target" type="string">Elastic1D_1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Elastic1D_2</property>
+                    <property name="target" type="string">Elastic1D_2.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Elastic1D_2</property>
+                    <property name="target" type="string">Elastic1D_2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Elastic1D_3</property>
+                    <property name="target" type="string">Elastic1D_3.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Elastic1D_3</property>
+                    <property name="target" type="string">Elastic1D_3.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[6]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Elastic1D_4</property>
+                    <property name="target" type="string">Elastic1D_4.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[7]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Elastic1D_4</property>
+                    <property name="target" type="string">Elastic1D_4.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[8]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Elastic1D_5</property>
+                    <property name="target" type="string">Elastic1D_5.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[9]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Elastic1D_5</property>
+                    <property name="target" type="string">Elastic1D_5.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[10]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic1D_1</property>
+                    <property name="target" type="string">Inelastic1D_1.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[11]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic1D_1</property>
+                    <property name="target" type="string">Inelastic1D_1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[12]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic1D_2</property>
+                    <property name="target" type="string">Inelastic1D_2.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[13]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic1D_2</property>
+                    <property name="target" type="string">Inelastic1D_2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[14]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic1D_3</property>
+                    <property name="target" type="string">Inelastic1D_3.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[15]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic1D_3</property>
+                    <property name="target" type="string">Inelastic1D_3.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[16]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic1D_4</property>
+                    <property name="target" type="string">Inelastic1D_4.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[17]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic1D_4</property>
+                    <property name="target" type="string">Inelastic1D_4.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[18]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic1D_5</property>
+                    <property name="target" type="string">Inelastic1D_5.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[19]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic1D_5</property>
+                    <property name="target" type="string">Inelastic1D_5.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[20]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic1D_6</property>
+                    <property name="target" type="string">Inelastic1D_6.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[21]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic1D_6</property>
+                    <property name="target" type="string">Inelastic1D_6.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[22]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic1D_7</property>
+                    <property name="target" type="string">Inelastic1D_7.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[23]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic1D_7</property>
+                    <property name="target" type="string">Inelastic1D_7.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[1]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">Elastic collisions in 2D Videos</property>
+            <property name="html_path" type="string">php_video_ntnu_info.html</property>
+            <property name="base_path" type="string">https://home.phys.ntnu.no/tracker_videos/video/Elastic/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Elastic collisions</property>
+                    <property name="target" type="string">Elastic collisions.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Elastic collisions1</property>
+                    <property name="target" type="string">Elastic collisions1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Elastic collisions2</property>
+                    <property name="target" type="string">Elastic collisions2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Elastic collisions3</property>
+                    <property name="target" type="string">Elastic collisions3.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Elastic collisions4</property>
+                    <property name="target" type="string">Elastic collisions4.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Elastic collisions5</property>
+                    <property name="target" type="string">Elastic collisions5.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[2]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">Gravity Videos</property>
+            <property name="html_path" type="string">php_video_ntnu_info.html</property>
+            <property name="base_path" type="string">https://home.phys.ntnu.no/tracker_videos/video/Gravity/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Cupcake1</property>
+                    <property name="target" type="string">Cupcake1.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Cupcake1</property>
+                    <property name="target" type="string">Cupcake1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Cupcake2</property>
+                    <property name="target" type="string">Cupcake2.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Cupcake2</property>
+                    <property name="target" type="string">Cupcake2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">a15v_1672206</property>
+                    <property name="target" type="string">a15v_1672206.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[3]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">Inelastic collisions in 2D Videos</property>
+            <property name="html_path" type="string">php_video_ntnu_info.html</property>
+            <property name="base_path" type="string">https://home.phys.ntnu.no/tracker_videos/video/Inelastic/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic 1</property>
+                    <property name="target" type="string">Inelastic 1.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic 10</property>
+                    <property name="target" type="string">Inelastic 10.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic 11</property>
+                    <property name="target" type="string">Inelastic 11.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic 12</property>
+                    <property name="target" type="string">Inelastic 12.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic 13</property>
+                    <property name="target" type="string">Inelastic 13.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic 14</property>
+                    <property name="target" type="string">Inelastic 14.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[6]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic 15</property>
+                    <property name="target" type="string">Inelastic 15.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[7]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic 16</property>
+                    <property name="target" type="string">Inelastic 16.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[8]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic 17</property>
+                    <property name="target" type="string">Inelastic 17.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[9]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic 18</property>
+                    <property name="target" type="string">Inelastic 18.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[10]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic 19</property>
+                    <property name="target" type="string">Inelastic 19.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[11]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic 2</property>
+                    <property name="target" type="string">Inelastic 2.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[12]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic 3</property>
+                    <property name="target" type="string">Inelastic 3.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[13]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic 4</property>
+                    <property name="target" type="string">Inelastic 4.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[14]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic 5</property>
+                    <property name="target" type="string">Inelastic 5.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[15]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic 6</property>
+                    <property name="target" type="string">Inelastic 6.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[16]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic 7</property>
+                    <property name="target" type="string">Inelastic 7.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[17]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic 8</property>
+                    <property name="target" type="string">Inelastic 8.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[18]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic 9</property>
+                    <property name="target" type="string">Inelastic 9.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[19]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic collisions</property>
+                    <property name="target" type="string">Inelastic collisions.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[20]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic collisions1</property>
+                    <property name="target" type="string">Inelastic collisions1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[21]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic collisions2</property>
+                    <property name="target" type="string">Inelastic collisions2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[22]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic collisions3</property>
+                    <property name="target" type="string">Inelastic collisions3.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[23]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Inelastic collisions4</property>
+                    <property name="target" type="string">Inelastic collisions4.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[4]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">Miscellaneous Videos</property>
+            <property name="html_path" type="string">php_video_ntnu_info.html</property>
+            <property name="base_path" type="string">https://home.phys.ntnu.no/tracker_videos/video/Misc/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Ballbearing on rotating turntable</property>
+                    <property name="target" type="string">Ballbearing on rotating turntable.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Pendulum with stop</property>
+                    <property name="target" type="string">Pendulum with stop.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Pendulum with stop</property>
+                    <property name="target" type="string">Pendulum with stop.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Slinky 240</property>
+                    <property name="target" type="string">Slinky 240.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Slinky 240</property>
+                    <property name="target" type="string">Slinky 240.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Slinky 420</property>
+                    <property name="target" type="string">Slinky 420.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[6]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Slinky 420</property>
+                    <property name="target" type="string">Slinky 420.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[7]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Table tennis ball on turntable</property>
+                    <property name="target" type="string">Table tennis ball on turntable.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[5]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">Oscillation Videos</property>
+            <property name="html_path" type="string">php_video_ntnu_info.html</property>
+            <property name="base_path" type="string">https://home.phys.ntnu.no/tracker_videos/video/Oscillationer/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Coupled springs 1</property>
+                    <property name="target" type="string">Coupled springs 1.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Coupled springs 1</property>
+                    <property name="target" type="string">Coupled springs 1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Coupled springs 2</property>
+                    <property name="target" type="string">Coupled springs 2.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Coupled springs 2</property>
+                    <property name="target" type="string">Coupled springs 2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Coupled springs 3</property>
+                    <property name="target" type="string">Coupled springs 3.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Coupled springs 3</property>
+                    <property name="target" type="string">Coupled springs 3.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[6]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Coupled springs 4</property>
+                    <property name="target" type="string">Coupled springs 4.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[7]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Coupled springs 4</property>
+                    <property name="target" type="string">Coupled springs 4.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[8]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Coupled springs 5</property>
+                    <property name="target" type="string">Coupled springs 5.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[9]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Coupled springs 5</property>
+                    <property name="target" type="string">Coupled springs 5.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[10]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Coupled springs 6</property>
+                    <property name="target" type="string">Coupled springs 6.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[11]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Coupled springs 6</property>
+                    <property name="target" type="string">Coupled springs 6.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[12]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Coupled springs 7</property>
+                    <property name="target" type="string">Coupled springs 7.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[13]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Coupled springs 7</property>
+                    <property name="target" type="string">Coupled springs 7.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[14]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Two coupled carts 1</property>
+                    <property name="target" type="string">Two coupled carts 1.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[15]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Two coupled carts 1</property>
+                    <property name="target" type="string">Two coupled carts 1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[16]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Two coupled carts 2</property>
+                    <property name="target" type="string">Two coupled carts 2.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[17]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Two coupled carts 2</property>
+                    <property name="target" type="string">Two coupled carts 2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[18]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Two coupled carts 3</property>
+                    <property name="target" type="string">Two coupled carts 3.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[19]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Two coupled carts 3</property>
+                    <property name="target" type="string">Two coupled carts 3.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[20]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Two coupled carts 4</property>
+                    <property name="target" type="string">Two coupled carts 4.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[21]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Two coupled carts 4</property>
+                    <property name="target" type="string">Two coupled carts 4.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[22]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Two coupled carts 5</property>
+                    <property name="target" type="string">Two coupled carts 5.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[23]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Two coupled carts 5</property>
+                    <property name="target" type="string">Two coupled carts 5.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[24]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Two coupled carts 6</property>
+                    <property name="target" type="string">Two coupled carts 6.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[25]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Two coupled carts 6</property>
+                    <property name="target" type="string">Two coupled carts 6.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[26]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Two coupled carts 7</property>
+                    <property name="target" type="string">Two coupled carts 7.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[27]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Two coupled carts 7</property>
+                    <property name="target" type="string">Two coupled carts 7.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[28]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Two coupled carts 8</property>
+                    <property name="target" type="string">Two coupled carts 8.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[29]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Two coupled carts 8</property>
+                    <property name="target" type="string">Two coupled carts 8.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[30]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Two coupled carts 9</property>
+                    <property name="target" type="string">Two coupled carts 9.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[31]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Two coupled carts 9</property>
+                    <property name="target" type="string">Two coupled carts 9.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[6]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">Projectile Videos</property>
+            <property name="html_path" type="string">php_video_ntnu_info.html</property>
+            <property name="base_path" type="string">https://home.phys.ntnu.no/tracker_videos/video/Projectile/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Projectile_60_2</property>
+                    <property name="target" type="string">Projectile_60_2.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Projectile_60_3</property>
+                    <property name="target" type="string">Projectile_60_3.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Projectile_70_2</property>
+                    <property name="target" type="string">Projectile_70_2.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Projectile_70_3</property>
+                    <property name="target" type="string">Projectile_70_3.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Projectile_80_2</property>
+                    <property name="target" type="string">Projectile_80_2.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Projectile_80_3</property>
+                    <property name="target" type="string">Projectile_80_3.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[6]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Projectile_90_3</property>
+                    <property name="target" type="string">Projectile_90_3.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[7]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">Specific charge of electron videos</property>
+            <property name="html_path" type="string">php_video_ntnu_info.html</property>
+            <property name="base_path" type="string">https://home.phys.ntnu.no/tracker_videos/video/Specific_Charge_Electron/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Lorentz_1</property>
+                    <property name="target" type="string">Lorentz_1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[8]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">Sunspot Videos</property>
+            <property name="html_path" type="string">php_video_ntnu_info.html</property>
+            <property name="base_path" type="string">https://home.phys.ntnu.no/tracker_videos/video/Sunspots/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">17Jan_1Mar_2001</property>
+                    <property name="target" type="string">17Jan_1Mar_2001.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">17Jan_1Mar_2001</property>
+                    <property name="target" type="string">17Jan_1Mar_2001.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Apr_May2012</property>
+                    <property name="target" type="string">Apr_May2012.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Apr_May2012</property>
+                    <property name="target" type="string">Apr_May2012.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Apr_May2013</property>
+                    <property name="target" type="string">Apr_May2013.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Aug_Sep2012</property>
+                    <property name="target" type="string">Aug_Sep2012.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[6]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Aug_Sep2013</property>
+                    <property name="target" type="string">Aug_Sep2013.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[7]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Dec2011</property>
+                    <property name="target" type="string">Dec2011.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[8]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Dec2011</property>
+                    <property name="target" type="string">Dec2011.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[9]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Dec2011_Jan2012</property>
+                    <property name="target" type="string">Dec2011_Jan2012.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[10]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Dec2011_Jan2012</property>
+                    <property name="target" type="string">Dec2011_Jan2012.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[11]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Dec2012_Jan2013</property>
+                    <property name="target" type="string">Dec2012_Jan2013.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[12]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Dec2013_Jan2014</property>
+                    <property name="target" type="string">Dec2013_Jan2014.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[13]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Feb_Mar2012</property>
+                    <property name="target" type="string">Feb_Mar2012.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[14]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Feb_Mar2012</property>
+                    <property name="target" type="string">Feb_Mar2012.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[15]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Feb_Mar2013</property>
+                    <property name="target" type="string">Feb_Mar2013.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[16]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Jan2012</property>
+                    <property name="target" type="string">Jan2012.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[17]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Jan2012</property>
+                    <property name="target" type="string">Jan2012.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[18]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Jan2014_Dec2015</property>
+                    <property name="target" type="string">Jan2014_Dec2015.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[19]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Jan_Feb2011</property>
+                    <property name="target" type="string">Jan_Feb2011.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[20]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Jan_Feb2011</property>
+                    <property name="target" type="string">Jan_Feb2011.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[21]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Jan_Feb2012</property>
+                    <property name="target" type="string">Jan_Feb2012.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[22]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Jan_Feb2012</property>
+                    <property name="target" type="string">Jan_Feb2012.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[23]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Jan_Feb2013</property>
+                    <property name="target" type="string">Jan_Feb2013.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[24]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Jan_Feb2014</property>
+                    <property name="target" type="string">Jan_Feb2014.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[25]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">July_Aug2011</property>
+                    <property name="target" type="string">July_Aug2011.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[26]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">July_Aug2011</property>
+                    <property name="target" type="string">July_Aug2011.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[27]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">July_Aug2012</property>
+                    <property name="target" type="string">July_Aug2012.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[28]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">July_Aug2013</property>
+                    <property name="target" type="string">July_Aug2013.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[29]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">June_July2012</property>
+                    <property name="target" type="string">June_July2012.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[30]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">June_July2013</property>
+                    <property name="target" type="string">June_July2013.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[31]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Mar_Apr2011</property>
+                    <property name="target" type="string">Mar_Apr2011.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[32]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Mar_Apr2011</property>
+                    <property name="target" type="string">Mar_Apr2011.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[33]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Mar_Apr2012</property>
+                    <property name="target" type="string">Mar_Apr2012.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[34]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Mar_Apr2012</property>
+                    <property name="target" type="string">Mar_Apr2012.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[35]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Mar_Apr2013</property>
+                    <property name="target" type="string">Mar_Apr2013.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[36]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">May2012-May2013</property>
+                    <property name="target" type="string">May2012-May2013.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[37]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">May_June2011</property>
+                    <property name="target" type="string">May_June2011.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[38]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">May_June2011</property>
+                    <property name="target" type="string">May_June2011.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[39]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">May_June2012</property>
+                    <property name="target" type="string">May_June2012.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[40]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">May_June2013</property>
+                    <property name="target" type="string">May_June2013.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[41]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Nov2011</property>
+                    <property name="target" type="string">Nov2011.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[42]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Nov2011</property>
+                    <property name="target" type="string">Nov2011.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[43]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Nov_Dec2011</property>
+                    <property name="target" type="string">Nov_Dec2011.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[44]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Nov_Dec2011</property>
+                    <property name="target" type="string">Nov_Dec2011.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[45]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Nov_Dec2012</property>
+                    <property name="target" type="string">Nov_Dec2012.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[46]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Nov_Dec2013</property>
+                    <property name="target" type="string">Nov_Dec2013.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[47]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Oct_Nov2012</property>
+                    <property name="target" type="string">Oct_Nov2012.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[48]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Oct_Nov2013</property>
+                    <property name="target" type="string">Oct_Nov2013.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[49]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Sep_Oct2012</property>
+                    <property name="target" type="string">Sep_Oct2012.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[50]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Sep_Oct2013</property>
+                    <property name="target" type="string">Sep_Oct2013.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[51]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Sept_Oct2011</property>
+                    <property name="target" type="string">Sept_Oct2011.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[52]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Sept_Oct2011</property>
+                    <property name="target" type="string">Sept_Oct2011.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[9]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">Cavendish experiment Videos</property>
+            <property name="html_path" type="string">php_video_ntnu_info.html</property>
+            <property name="base_path" type="string">https://home.phys.ntnu.no/tracker_videos/video/cavendish_experiment/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Cavendish_1</property>
+                    <property name="target" type="string">Cavendish_1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Cavendish_2</property>
+                    <property name="target" type="string">Cavendish_2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Cavendish_3</property>
+                    <property name="target" type="string">Cavendish_3.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Cavendish_experiment</property>
+                    <property name="target" type="string">Cavendish_experiment.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+        <property name="[10]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryCollection">
+            <property name="name" type="string">Coefficient of restituition Videos</property>
+            <property name="html_path" type="string">php_video_ntnu_info.html</property>
+            <property name="base_path" type="string">https://home.phys.ntnu.no/tracker_videos/video/coef_of_restitution/</property>
+            <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+                <property name="[0]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Basketball_1</property>
+                    <property name="target" type="string">Basketball_1.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[1]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Basketball_1</property>
+                    <property name="target" type="string">Basketball_1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[2]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Basketball_2</property>
+                    <property name="target" type="string">Basketball_2.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[3]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Basketball_2</property>
+                    <property name="target" type="string">Basketball_2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Basketball_3</property>
+                    <property name="target" type="string">Basketball_3.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[5]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Basketball_3</property>
+                    <property name="target" type="string">Basketball_3.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[6]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Basketball_4</property>
+                    <property name="target" type="string">Basketball_4.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[7]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Basketball_4</property>
+                    <property name="target" type="string">Basketball_4.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[8]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Basketball_5</property>
+                    <property name="target" type="string">Basketball_5.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[9]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Basketball_5</property>
+                    <property name="target" type="string">Basketball_5.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[10]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Basketball_6</property>
+                    <property name="target" type="string">Basketball_6.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[11]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Basketball_6</property>
+                    <property name="target" type="string">Basketball_6.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[12]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Handball_1</property>
+                    <property name="target" type="string">Handball_1.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[13]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Handball_1</property>
+                    <property name="target" type="string">Handball_1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[14]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Handball_2</property>
+                    <property name="target" type="string">Handball_2.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[15]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Handball_2</property>
+                    <property name="target" type="string">Handball_2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[16]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Handball_3</property>
+                    <property name="target" type="string">Handball_3.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[17]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Handball_3</property>
+                    <property name="target" type="string">Handball_3.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[18]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Handball_4</property>
+                    <property name="target" type="string">Handball_4.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[19]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Handball_4</property>
+                    <property name="target" type="string">Handball_4.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[20]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Handball_5</property>
+                    <property name="target" type="string">Handball_5.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[21]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Handball_5</property>
+                    <property name="target" type="string">Handball_5.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[22]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Handball_6</property>
+                    <property name="target" type="string">Handball_6.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[23]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Handball_6</property>
+                    <property name="target" type="string">Handball_6.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[24]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Handball_7</property>
+                    <property name="target" type="string">Handball_7.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[25]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Handball_7</property>
+                    <property name="target" type="string">Handball_7.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[26]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Soccerball_1</property>
+                    <property name="target" type="string">Soccerball_1.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[27]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Soccerball_1</property>
+                    <property name="target" type="string">Soccerball_1.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[28]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Soccerball_2</property>
+                    <property name="target" type="string">Soccerball_2.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[29]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Soccerball_2</property>
+                    <property name="target" type="string">Soccerball_2.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[30]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Soccerball_3</property>
+                    <property name="target" type="string">Soccerball_3.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[31]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Soccerball_3</property>
+                    <property name="target" type="string">Soccerball_3.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[32]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Soccerball_4</property>
+                    <property name="target" type="string">Soccerball_4.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[33]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Soccerball_4</property>
+                    <property name="target" type="string">Soccerball_4.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[34]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Soccerball_5</property>
+                    <property name="target" type="string">Soccerball_5.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[35]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Soccerball_5</property>
+                    <property name="target" type="string">Soccerball_5.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[36]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Soccerball_6</property>
+                    <property name="target" type="string">Soccerball_6.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[37]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Soccerball_6</property>
+                    <property name="target" type="string">Soccerball_6.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[38]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Soccerball_7</property>
+                    <property name="target" type="string">Soccerball_7.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[39]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Soccerball_7</property>
+                    <property name="target" type="string">Soccerball_7.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[40]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Soccerball_8</property>
+                    <property name="target" type="string">Soccerball_8.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[41]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Soccerball_8</property>
+                    <property name="target" type="string">Soccerball_8.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[42]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Tabletennisball</property>
+                    <property name="target" type="string">Tabletennisball.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[43]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Tabletennisball</property>
+                    <property name="target" type="string">Tabletennisball.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[44]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Tennisball</property>
+                    <property name="target" type="string">Tennisball.mov</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+                <property name="[45]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Tennisball</property>
+                    <property name="target" type="string">Tennisball.mp4</property>
+                    <property name="type" type="string">Video</property>
+                </object>
+                </property>
+            </property>
+        </object>
+        </property>
+    </property>
+</object>
