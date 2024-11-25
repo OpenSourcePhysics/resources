@@ -41,13 +41,6 @@
         </property>
         <property name="[2]" type="object">
         <object class="org.opensourcephysics.tools.LibraryResource">
-          <property name="name" type="string">Galileo'sProjectile.mov</property>
-          <property name="type" type="string">Video</property>
-          <property name="target" type="string">Galileo'sProjectile.mov</property>
-        </object>
-        </property>
-        <property name="[3]" type="object">
-        <object class="org.opensourcephysics.tools.LibraryResource">
           <property name="name" type="string">Galileo'sProjectile.mp4</property>
           <property name="type" type="string">Video</property>
           <property name="target" type="string">Galileo'sProjectile.mp4</property>
@@ -70,44 +63,23 @@
         </property>
         <property name="[1]" type="object">
         <object class="org.opensourcephysics.tools.LibraryResource">
-          <property name="name" type="string">BallToss.mov</property>
-          <property name="type" type="string">Video</property>
-          <property name="target" type="string">BallToss.mov</property>
-        </object>
-        </property>
-        <property name="[2]" type="object">
-        <object class="org.opensourcephysics.tools.LibraryResource">
           <property name="name" type="string">BallToss.mp4</property>
           <property name="type" type="string">Video</property>
           <property name="target" type="string">BallToss.mp4</property>
         </object>
         </property>
-        <property name="[3]" type="object">
-        <object class="org.opensourcephysics.tools.LibraryResource">
-          <property name="name" type="string">ROLL583.mov</property>
-          <property name="type" type="string">Video</property>
-          <property name="target" type="string">ROLL583.mov</property>
-        </object>
-        </property>
-        <property name="[4]" type="object">
+        <property name="[2]" type="object">
         <object class="org.opensourcephysics.tools.LibraryResource">
           <property name="name" type="string">ROLL583.mp4</property>
           <property name="type" type="string">Video</property>
           <property name="target" type="string">ROLL583.mp4</property>
         </object>
         </property>
-        <property name="[5]" type="object">
+        <property name="[3]" type="object">
         <object class="org.opensourcephysics.tools.LibraryResource">
           <property name="name" type="string">ballOnString.mp4</property>
           <property name="type" type="string">Video</property>
           <property name="target" type="string">ballOnString.mp4</property>
-        </object>
-        </property>
-        <property name="[6]" type="object">
-        <object class="org.opensourcephysics.tools.LibraryResource">
-          <property name="name" type="string">ballOnString.wmv</property>
-          <property name="type" type="string">Video</property>
-          <property name="target" type="string">ballOnString.wmv</property>
         </object>
         </property>
       </property>
@@ -127,19 +99,12 @@
         </property>
         <property name="[1]" type="object">
         <object class="org.opensourcephysics.tools.LibraryResource">
-          <property name="name" type="string">BallToss.mov</property>
-          <property name="type" type="string">Video</property>
-          <property name="target" type="string">BallToss.mov</property>
-        </object>
-        </property>
-        <property name="[2]" type="object">
-        <object class="org.opensourcephysics.tools.LibraryResource">
           <property name="name" type="string">BallToss.mp4</property>
           <property name="type" type="string">Video</property>
           <property name="target" type="string">BallToss.mp4</property>
         </object>
         </property>
-        <property name="[3]" type="object">
+        <property name="[2]" type="object">
         <object class="org.opensourcephysics.tools.LibraryResource">
           <property name="name" type="string">Rotating fan.mp4</property>
           <property name="type" type="string">Video</property>
@@ -170,13 +135,6 @@
         </object>
         </property>
         <property name="[2]" type="object">
-        <object class="org.opensourcephysics.tools.LibraryResource">
-          <property name="name" type="string">BallToss.mov</property>
-          <property name="type" type="string">Video</property>
-          <property name="target" type="string">BallToss.mov</property>
-        </object>
-        </property>
-        <property name="[3]" type="object">
         <object class="org.opensourcephysics.tools.LibraryResource">
           <property name="name" type="string">BallToss.mp4</property>
           <property name="type" type="string">Video</property>
