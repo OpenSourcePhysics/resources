@@ -12,7 +12,7 @@
     <object class="org.opensourcephysics.media.core.VideoClip">
         <property name="video" type="object">
         <object class="org.opensourcephysics.media.xuggle.XuggleVideo">
-            <property name="path" type="string">BallToss.mov</property>
+            <property name="path" type="string">BallToss.mp4</property>
         </object>
         </property>
         <property name="video_framecount" type="int">32</property>
