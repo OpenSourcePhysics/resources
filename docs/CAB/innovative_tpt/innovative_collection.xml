@@ -71,7 +71,7 @@
                 <property name="[2]" type="object">
                 <object class="org.opensourcephysics.tools.LibraryResource">
                     <property name="name" type="string">Angular Tethered</property>
-                    <property name="html_path" type="string">collide_tethered_info.html</property>
+                    <property name="html_path" type="string">html/collide_tethered_info.html</property>
                     <property name="target" type="string">collide_tethered.trz</property>
                     <property name="type" type="string">Tracker</property>
                     <property name="metadata" type="array" class="[[Ljava.lang.String;">
