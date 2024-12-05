@@ -151,6 +151,14 @@
                     </property>
                 </object>
                 </property>
+                <property name="[4]" type="object">
+                <object class="org.opensourcephysics.tools.LibraryResource">
+                    <property name="name" type="string">Binary Star</property>
+                    <property name="html_path" type="string">binary_star_info.html</property>
+                    <property name="target" type="string">binary_star.trz</property>
+                    <property name="type" type="string">Tracker</property>
+                </object>
+                </property>
             </property>
         </object>
         </property>
